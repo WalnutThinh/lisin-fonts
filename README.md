@@ -19,10 +19,14 @@ provides tabular digits. The family names above are the intended application-men
 
 ## Status
 
-Version 1.000 is a Google Fonts submission candidate. It is not an accepted
+Version 1.001 is a Google Fonts submission candidate. It is not an accepted
 Google Fonts release. See [QA status](documentation/QA.md) for actual results
 and outstanding review items. The existing deployed application fonts have
 not been replaced by this candidate.
+
+Version 1.001 adds the sixteen characters identified in the initial language
+coverage failures, fourteen auxiliary characters and a dotted circle for marks.
+See [coverage details and specimens](documentation/COVERAGE.md).
 
 ## Source and build
 

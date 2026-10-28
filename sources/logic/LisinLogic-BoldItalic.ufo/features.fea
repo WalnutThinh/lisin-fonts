@@ -1,7 +1,7 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 table GDEF {
-    GlyphClassDef [A Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve uni0122 Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K uni0136 L Lacute Lcaron uni013B Lslash M N Nacute Ncaron uni0145 Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla uni0218 uni1E9E T Tcaron uni021A U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve uni01CE acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla cdotaccent d eth dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek f g gbreve uni0123 gdotaccent h hbar i dotlessi iacute icircumflex idieresis igrave ij imacron iogonek j uni0237 k uni0137 l lacute lcaron uni013C lslash m n nacute ncaron uni0146 ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron uni0157 s sacute scaron scedilla uni0219 germandbls t tcaron uni021B u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent uni0128 uni0129 uni0168 uni0169 uni01A0 uni01A1 uni01AF uni01B0 uni1EA0 uni1EA1 uni1EA2 uni1EA3 uni1EB8 uni1EB9 uni1EBA uni1EBB uni1EBC uni1EBD uni1EC8 uni1EC9 uni1ECA uni1ECB uni1ECC uni1ECD uni1ECE uni1ECF uni1EE4 uni1EE5 uni1EE6 uni1EE7 uni1EF4 uni1EF5 uni1EF6 uni1EF7 uni1EF8 uni1EF9 uni1EA4 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAA uni1EAB uni1EAC uni1EAD uni1EAE uni1EAF uni1EB0 uni1EB1 uni1EB2 uni1EB3 uni1EB4 uni1EB5 uni1EB6 uni1EB7 uni1EBE uni1EBF uni1EC0 uni1EC1 uni1EC2 uni1EC3 uni1EC4 uni1EC5 uni1EC6 uni1EC7 uni1ED0 uni1ED1 uni1ED2 uni1ED3 uni1ED4 uni1ED5 uni1ED6 uni1ED7 uni1ED8 uni1ED9 uni1EDA uni1EDB uni1EDC uni1EDD uni1EDE uni1EDF uni1EE0 uni1EE1 uni1EE2 uni1EE3 uni1EE8 uni1EE9 uni1EEA uni1EEB uni1EEC uni1EED uni1EEE uni1EEF uni1EF0 uni1EF1 uni0108.extended uni0109.extended uni0114.extended uni0115.extended uni011C.extended uni011D.extended uni0124.extended uni0125.extended uni012C.extended uni012D.extended uni0134.extended uni0135.extended uni014E.extended uni014F.extended uni015C.extended uni015D.extended uni0162.extended uni0163.extended uni01CF.extended uni01D0.extended uni01D1.extended uni01D2.extended uni01D3.extended uni01D4.extended uni01D5.extended uni01D6.extended uni01D7.extended uni01D8.extended uni01D9.extended uni01DA.extended uni01DB.extended uni01DC.extended uni01DE.extended uni01DF.extended uni01E0.extended uni01E1.extended uni01E2.extended uni01E3.extended uni01E6.extended uni01E7.extended uni01E8.extended uni01E9.extended uni01EA.extended uni01EB.extended uni01EC.extended uni01ED.extended uni01F0.extended uni01F4.extended uni01F5.extended uni01F8.extended uni01F9.extended uni01FA.extended uni01FB.extended uni01FC.extended uni01FD.extended uni01FE.extended uni01FF.extended uni021E.extended uni021F.extended uni0226.extended uni0227.extended uni0228.extended uni0229.extended uni022A.extended uni022B.extended uni022C.extended uni022D.extended uni022E.extended uni022F.extended uni0230.extended uni0231.extended uni0232.extended uni0233.extended uni1E02.extended uni1E03.extended uni1E04.extended uni1E05.extended uni1E08.extended uni1E09.extended uni1E0A.extended uni1E0B.extended uni1E0C.extended uni1E0D.extended uni1E10.extended uni1E11.extended uni1E14.extended uni1E15.extended uni1E16.extended uni1E17.extended uni1E1C.extended uni1E1D.extended uni1E1E.extended uni1E1F.extended uni1E20.extended uni1E21.extended uni1E22.extended uni1E23.extended uni1E24.extended uni1E25.extended uni1E26.extended uni1E27.extended uni1E28.extended uni1E29.extended uni1E2E.extended uni1E2F.extended uni1E30.extended uni1E31.extended uni1E32.extended uni1E33.extended uni1E36.extended uni1E37.extended uni1E38.extended uni1E39.extended uni1E3E.extended uni1E3F.extended uni1E40.extended uni1E41.extended uni1E42.extended uni1E43.extended uni1E44.extended uni1E45.extended uni1E46.extended uni1E47.extended uni1E4C.extended uni1E4D.extended uni1E4E.extended uni1E4F.extended uni1E50.extended uni1E51.extended uni1E52.extended uni1E53.extended uni1E54.extended uni1E55.extended uni1E56.extended uni1E57.extended uni1E58.extended uni1E59.extended uni1E5A.extended uni1E5B.extended uni1E5C.extended uni1E5D.extended uni1E60.extended uni1E61.extended uni1E62.extended uni1E63.extended uni1E64.extended uni1E65.extended uni1E66.extended uni1E67.extended uni1E68.extended uni1E69.extended uni1E6A.extended uni1E6B.extended uni1E6C.extended uni1E6D.extended uni1E78.extended uni1E79.extended uni1E7A.extended uni1E7B.extended uni1E7C.extended uni1E7D.extended uni1E7E.extended uni1E7F.extended uni1E86.extended uni1E87.extended uni1E88.extended uni1E89.extended uni1E8A.extended uni1E8B.extended uni1E8C.extended uni1E8D.extended uni1E8E.extended uni1E8F.extended uni1E90.extended uni1E91.extended uni1E92.extended uni1E93.extended uni1E97.extended uni1E98.extended uni1E99.extended], [], [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328 hookabovecomb dotbelowcomb], [];
+    GlyphClassDef [A Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve uni0122 Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K uni0136 L Lacute Lcaron uni013B Lslash M N Nacute Ncaron uni0145 Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla uni0218 uni1E9E T Tcaron uni021A U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve uni01CE acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla cdotaccent d eth dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek f g gbreve uni0123 gdotaccent h hbar i dotlessi iacute icircumflex idieresis igrave ij imacron iogonek j uni0237 k uni0137 l lacute lcaron uni013C lslash m n nacute ncaron uni0146 ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron uni0157 s sacute scaron scedilla uni0219 germandbls t tcaron uni021B u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent uni0128 uni0129 uni0168 uni0169 uni01A0 uni01A1 uni01AF uni01B0 uni1EA0 uni1EA1 uni1EA2 uni1EA3 uni1EB8 uni1EB9 uni1EBA uni1EBB uni1EBC uni1EBD uni1EC8 uni1EC9 uni1ECA uni1ECB uni1ECC uni1ECD uni1ECE uni1ECF uni1EE4 uni1EE5 uni1EE6 uni1EE7 uni1EF4 uni1EF5 uni1EF6 uni1EF7 uni1EF8 uni1EF9 uni1EA4 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAA uni1EAB uni1EAC uni1EAD uni1EAE uni1EAF uni1EB0 uni1EB1 uni1EB2 uni1EB3 uni1EB4 uni1EB5 uni1EB6 uni1EB7 uni1EBE uni1EBF uni1EC0 uni1EC1 uni1EC2 uni1EC3 uni1EC4 uni1EC5 uni1EC6 uni1EC7 uni1ED0 uni1ED1 uni1ED2 uni1ED3 uni1ED4 uni1ED5 uni1ED6 uni1ED7 uni1ED8 uni1ED9 uni1EDA uni1EDB uni1EDC uni1EDD uni1EDE uni1EDF uni1EE0 uni1EE1 uni1EE2 uni1EE3 uni1EE8 uni1EE9 uni1EEA uni1EEB uni1EEC uni1EED uni1EEE uni1EEF uni1EF0 uni1EF1 uni0108.extended uni0109.extended uni0114.extended uni0115.extended uni011C.extended uni011D.extended uni0124.extended uni0125.extended uni012C.extended uni012D.extended uni0134.extended uni0135.extended uni014E.extended uni014F.extended uni015C.extended uni015D.extended uni0162.extended uni0163.extended uni01CF.extended uni01D0.extended uni01D1.extended uni01D2.extended uni01D3.extended uni01D4.extended uni01D5.extended uni01D6.extended uni01D7.extended uni01D8.extended uni01D9.extended uni01DA.extended uni01DB.extended uni01DC.extended uni01DE.extended uni01DF.extended uni01E0.extended uni01E1.extended uni01E2.extended uni01E3.extended uni01E6.extended uni01E7.extended uni01E8.extended uni01E9.extended uni01EA.extended uni01EB.extended uni01EC.extended uni01ED.extended uni01F0.extended uni01F4.extended uni01F5.extended uni01F8.extended uni01F9.extended uni01FA.extended uni01FB.extended uni01FC.extended uni01FD.extended uni01FE.extended uni01FF.extended uni021E.extended uni021F.extended uni0226.extended uni0227.extended uni0228.extended uni0229.extended uni022A.extended uni022B.extended uni022C.extended uni022D.extended uni022E.extended uni022F.extended uni0230.extended uni0231.extended uni0232.extended uni0233.extended uni1E02.extended uni1E03.extended uni1E04.extended uni1E05.extended uni1E08.extended uni1E09.extended uni1E0A.extended uni1E0B.extended uni1E0C.extended uni1E0D.extended uni1E10.extended uni1E11.extended uni1E14.extended uni1E15.extended uni1E16.extended uni1E17.extended uni1E1C.extended uni1E1D.extended uni1E1E.extended uni1E1F.extended uni1E20.extended uni1E21.extended uni1E22.extended uni1E23.extended uni1E24.extended uni1E25.extended uni1E26.extended uni1E27.extended uni1E28.extended uni1E29.extended uni1E2E.extended uni1E2F.extended uni1E30.extended uni1E31.extended uni1E32.extended uni1E33.extended uni1E36.extended uni1E37.extended uni1E38.extended uni1E39.extended uni1E3E.extended uni1E3F.extended uni1E40.extended uni1E41.extended uni1E42.extended uni1E43.extended uni1E44.extended uni1E45.extended uni1E46.extended uni1E47.extended uni1E4C.extended uni1E4D.extended uni1E4E.extended uni1E4F.extended uni1E50.extended uni1E51.extended uni1E52.extended uni1E53.extended uni1E54.extended uni1E55.extended uni1E56.extended uni1E57.extended uni1E58.extended uni1E59.extended uni1E5A.extended uni1E5B.extended uni1E5C.extended uni1E5D.extended uni1E60.extended uni1E61.extended uni1E62.extended uni1E63.extended uni1E64.extended uni1E65.extended uni1E66.extended uni1E67.extended uni1E68.extended uni1E69.extended uni1E6A.extended uni1E6B.extended uni1E6C.extended uni1E6D.extended uni1E78.extended uni1E79.extended uni1E7A.extended uni1E7B.extended uni1E7C.extended uni1E7D.extended uni1E7E.extended uni1E7F.extended uni1E86.extended uni1E87.extended uni1E88.extended uni1E89.extended uni1E8A.extended uni1E8B.extended uni1E8C.extended uni1E8D.extended uni1E8E.extended uni1E8F.extended uni1E90.extended uni1E91.extended uni1E92.extended uni1E93.extended uni1E97.extended uni1E98.extended uni1E99.extended uni0181 uni0253 uni018A uni0257 uni0190 uni025B uni0186 uni0254 uni0198 uni0199 uni019D uni0272 uni01B3 uni01B4 uni02BC uni25CC uni013F uni0140 uni017F uni02BB uni01E4 uni01E5 uni0166 uni0167 uni01B7 uni0292 uni01EE uni01EF uni019F uni0275], [], [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328 hookabovecomb dotbelowcomb uni0329], [];
 } GDEF;
 
     markClass uni0308 <anchor -9 -58> @Anchor2__Anchor2;
@@ -38,7 +38,11 @@ table GDEF {
     markClass hookabovecomb <anchor 11 -55> @Anchor5_Anchor5_;
 
 
+markClass uni0329 <anchor 7 45> @Anchor3__Anchor3;
+
 lookup LigatureSubstitution1 {
+    sub uni01B7 uni030C by uni01EE;
+    sub uni0292 uni030C by uni01EF;
     lookupflag 0;
     ;
     sub A dotbelowcomb uni0302 by uni1EAC;
@@ -1465,6 +1469,62 @@ lookup MarkToBase1 {
         pos base uni1E93.extended
             <anchor 248 -148> mark @Anchor3__Anchor3;
 
+    pos base uni0181 <anchor 444 736> mark @Anchor2__Anchor2;
+    pos base uni0181 <anchor 323 -29> mark @Anchor3__Anchor3;
+    pos base uni0253 <anchor 383 770> mark @Anchor2__Anchor2;
+    pos base uni0253 <anchor 257 -27> mark @Anchor3__Anchor3;
+    pos base uni018A <anchor 487 736> mark @Anchor2__Anchor2;
+    pos base uni018A <anchor 366 -31> mark @Anchor3__Anchor3;
+    pos base uni0257 <anchor 436 770> mark @Anchor2__Anchor2;
+    pos base uni0257 <anchor 310 -27> mark @Anchor3__Anchor3;
+    pos base uni0190 <anchor 393 745> mark @Anchor2__Anchor2;
+    pos base uni0190 <anchor 269 -38> mark @Anchor3__Anchor3;
+    pos base uni025B <anchor 349 554> mark @Anchor2__Anchor2;
+    pos base uni025B <anchor 257 -28> mark @Anchor3__Anchor3;
+    pos base uni0186 <anchor 435 741> mark @Anchor2__Anchor2;
+    pos base uni0186 <anchor 311 -39> mark @Anchor3__Anchor3;
+    pos base uni0254 <anchor 355 556> mark @Anchor2__Anchor2;
+    pos base uni0254 <anchor 260 -39> mark @Anchor3__Anchor3;
+    pos base uni0198 <anchor 416 750> mark @Anchor2__Anchor2;
+    pos base uni0198 <anchor 294 -20> mark @Anchor3__Anchor3;
+    pos base uni0199 <anchor 384 770> mark @Anchor2__Anchor2;
+    pos base uni0199 <anchor 259 -21> mark @Anchor3__Anchor3;
+    pos base uni019D <anchor 476 702> mark @Anchor2__Anchor2;
+    pos base uni019D <anchor 326 -246> mark @Anchor3__Anchor3;
+    pos base uni0272 <anchor 408 560> mark @Anchor2__Anchor2;
+    pos base uni0272 <anchor 281 -246> mark @Anchor3__Anchor3;
+    pos base uni01B3 <anchor 473 759> mark @Anchor2__Anchor2;
+    pos base uni01B3 <anchor 352 0> mark @Anchor3__Anchor3;
+    pos base uni01B4 <anchor 425 586> mark @Anchor2__Anchor2;
+    pos base uni01B4 <anchor 294 -243> mark @Anchor3__Anchor3;
+    pos base uni25CC <anchor 358 490> mark @Anchor2__Anchor2;
+    pos base uni25CC <anchor 286 40> mark @Anchor3__Anchor3;
+    pos base uni013F <anchor 359 700> mark @Anchor2__Anchor2;
+    pos base uni013F <anchor 245 -25> mark @Anchor3__Anchor3;
+    pos base uni0140 <anchor 310 720> mark @Anchor2__Anchor2;
+    pos base uni0140 <anchor 190 -32> mark @Anchor3__Anchor3;
+    pos base uni017F <anchor 324 786> mark @Anchor2__Anchor2;
+    pos base uni017F <anchor 200 0> mark @Anchor3__Anchor3;
+    pos base uni01E4 <anchor 443 741> mark @Anchor2__Anchor2;
+    pos base uni01E4 <anchor 320 -39> mark @Anchor3__Anchor3;
+    pos base uni01E5 <anchor 355 545> mark @Anchor2__Anchor2;
+    pos base uni01E5 <anchor 229 -252> mark @Anchor3__Anchor3;
+    pos base uni0166 <anchor 399 724> mark @Anchor2__Anchor2;
+    pos base uni0166 <anchor 284 0> mark @Anchor3__Anchor3;
+    pos base uni0167 <anchor 312 675> mark @Anchor2__Anchor2;
+    pos base uni0167 <anchor 202 -25> mark @Anchor3__Anchor3;
+    pos base uni01B7 <anchor 410 723> mark @Anchor2__Anchor2;
+    pos base uni01B7 <anchor 289 -36> mark @Anchor3__Anchor3;
+    pos base uni0292 <anchor 371 543> mark @Anchor2__Anchor2;
+    pos base uni0292 <anchor 246 -241> mark @Anchor3__Anchor3;
+    pos base uni01EE <anchor 442 931> mark @Anchor2__Anchor2;
+    pos base uni01EE <anchor 289 -36> mark @Anchor3__Anchor3;
+    pos base uni01EF <anchor 403 751> mark @Anchor2__Anchor2;
+    pos base uni01EF <anchor 246 -241> mark @Anchor3__Anchor3;
+    pos base uni019F <anchor 430 733> mark @Anchor2__Anchor2;
+    pos base uni019F <anchor 308 -33> mark @Anchor3__Anchor3;
+    pos base uni0275 <anchor 355 547> mark @Anchor2__Anchor2;
+    pos base uni0275 <anchor 264 -27> mark @Anchor3__Anchor3;
 } MarkToBase1;
 
 lookup MarkToMark4 {

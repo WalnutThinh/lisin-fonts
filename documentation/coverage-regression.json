@@ -1,0 +1,89 @@
+{
+  "status": "PASS",
+  "fonts": [
+    {
+      "file": "LisinCadre-Bold.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "573d7a78f24702caea7137dbe81ad92128accdd1be80f495cfe7b8396e00bda6"
+    },
+    {
+      "file": "LisinCadre-BoldItalic.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "a38e32f6b7772d0f9aa65f0fed341b842ae21525a62d8e4a6aaa0e8268e001e7"
+    },
+    {
+      "file": "LisinCadre-Italic.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "ea400c487cd5d8eebe5ef451ec52129fd6eb1ac8a8b24048b3fcd7ea1e27917c"
+    },
+    {
+      "file": "LisinCadre-Regular.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "202cc0614d2cd81dad599c61104a9b804288ffa0eafb14ce6e218073d9076d66"
+    },
+    {
+      "file": "LisinLogic-Bold.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "446af3d7b0bef79df2b100afc45a4c3f116a0638fadbe8ca3e1f42c26a259b1a"
+    },
+    {
+      "file": "LisinLogic-BoldItalic.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "25fb4ca0b574db2f4a2dcb460afc2475a02e87e01800d31f9f4433762d5531f8"
+    },
+    {
+      "file": "LisinLogic-Italic.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "4e263109c3ddd38f64a5a82984f01668b650298a002a1816e4520d94f88ef3a7"
+    },
+    {
+      "file": "LisinLogic-Regular.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "6916f87f3d64cc885722c5c477176ed66c2320df646af504c100e8e42a8dcaa2"
+    },
+    {
+      "file": "LisinStudio-Bold.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "6319a904b2f3ea49e9e9540a7771eb91b09c37f1521951f3406e5e2722ec4c67"
+    },
+    {
+      "file": "LisinStudio-BoldItalic.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "6e42f44bfb8d50141afb3bcaac740d5bff9333f779b67dd1bf6bb3462c9ac07b"
+    },
+    {
+      "file": "LisinStudio-Italic.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "04b3cd71ccb5636174d9794c9529308f4da95551b39c4c3db3bc440ef4c9195e"
+    },
+    {
+      "file": "LisinStudio-Regular.ttf",
+      "unchanged_glyphs": 670,
+      "unchanged_codepoints": 616,
+      "new_codepoints": 31,
+      "sha256": "1a110335893b2f896ff48a9c285e55f0f80927c2537f1dbad9fdd71d0d390531"
+    }
+  ]
+}

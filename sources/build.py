@@ -30,7 +30,7 @@ def finish(path):
     font["head"].created = font["head"].modified = 3875990400
     font.save(path)
     assert font["name"].getDebugName(9) == "Enchante"
-    assert font["head"].fontRevision == 1
+    assert abs(font["head"].fontRevision - 1.001) < 1 / 65536
 
 
 def main():

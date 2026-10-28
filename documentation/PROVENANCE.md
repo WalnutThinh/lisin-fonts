@@ -36,6 +36,12 @@ of manual TrueType hinting. Production application fonts are outside this reposi
 
 ## Review scope
 
+Version 1.001 extends all twelve styles with thirty previously missing
+characters and a dotted circle. The new outlines use the existing Lisin drawing
+vocabulary; no additional third-party font outlines were imported. Combining
+mark placement is added for the new bases. Existing outlines and advances are
+unchanged from 1.000. License notices retain both upstream and Enchante credits.
+
 Google Fonts admission requires design review in addition to licensing and QA.
 The project requests an assessment of its suitability as three new derivative
 families. This repository does not imply endorsement by Google or Instrument.

@@ -6,8 +6,40 @@ from pathlib import Path
 import glyphsets
 import uharfbuzz as hb
 from fontTools.ttLib import TTFont
+from fontTools.pens.boundsPen import BoundsPen
 
 ROOT = Path(__file__).resolve().parents[1]
+EXTENDED = "ƁɓƊɗƐɛƆɔƘƙƝɲƳƴʼ\u0329◌ĿŀſʻǤǥŦŧƷʒǮǯƟɵ"
+
+
+def check_extension(tt, font):
+    cmap = tt.getBestCmap()
+    glyphs = tt.getGlyphSet()
+    def bounds(name):
+        pen = BoundsPen(glyphs)
+        glyphs[name].draw(pen)
+        return pen.bounds
+    assert all(ord(char) in cmap for char in EXTENDED)
+    assert tt["hmtx"][cmap[0x329]][0] == 0
+    for char in EXTENDED[:14] + "eonm◌ĿŀſǤǥŦŧƷʒǮǯƟɵ":
+        left, bottom, right, top = bounds(cmap[ord(char)])
+        for mark in ("\u0301", "\u0300", "\u0303", "\u0329"):
+            buffer = hb.Buffer()
+            buffer.add_str(char + mark)
+            buffer.guess_segment_properties()
+            hb.shape(font, buffer)
+            if len(buffer.glyph_infos) == 1:
+                continue  # Existing Latin precomposed substitutions are checked below.
+            assert len(buffer.glyph_infos) == 2, (char, mark)
+            pos = buffer.glyph_positions[-1]
+            assert pos.x_advance == 0, (char, mark, "mark adds spacing")
+            ml, mb, mr, mt = bounds(tt.getGlyphName(buffer.glyph_infos[-1].codepoint))
+            x = buffer.glyph_positions[0].x_advance + pos.x_offset
+            assert left - 65 < x + (ml + mr) / 2 < right + 65
+            if mark == "\u0329":
+                assert mt + pos.y_offset < bottom, (char, "below-mark collision")
+            else:
+                assert mb + pos.y_offset > top, (char, "above-mark collision")
 
 
 def shape(font, text, features=None):
@@ -31,6 +63,7 @@ def main():
             font = hb.Font(hb.Face(path.read_bytes()))
             font.scale = (tt["head"].unitsPerEm,) * 2
             hb.ot_font_set_funcs(font)
+            check_extension(tt, font)
             cmap, pairs = tt.getBestCmap(), 0
             for cp in cmap:
                 text = chr(cp)
@@ -51,10 +84,11 @@ def main():
             assert tt["name"].getDebugName(9) == "Enchante"
             assert tt["OS/2"].usWeightClass == (700 if "Bold" in style else 400)
             assert bool(tt["OS/2"].fsSelection & 1) == ("Italic" in style)
-            assert tt["head"].fontRevision == 1
+            assert abs(tt["head"].fontRevision - 1.001) < 1 / 65536
             coverage = glyphsets.get_glyphsets_fulfilled(tt)["GF_Latin_Core"]["percentage"]
             assert coverage == 1, (path.name, coverage)
-            results.append({"file": path.name, "canonical_pairs": pairs, "latin_core_coverage": coverage})
+            results.append({"file": path.name, "canonical_pairs": pairs,
+                            "latin_core_coverage": coverage, "extension_characters": len(EXTENDED)})
         assert len(widths) == 1, (family, widths)
         assert styles == {"Regular", "Bold", "Italic", "Bold Italic"}
     print(json.dumps({"status": "PASS", "fonts": results}, indent=2))

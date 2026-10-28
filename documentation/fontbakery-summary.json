@@ -1,13 +1,14 @@
 {
   "studio": {
     "fontbakery": "1.1.0",
+    "version": "1.001",
     "counts": {
-      "(not finished)": 0,
-      "FAIL": 4,
-      "INFO": 25,
-      "PASS": 377,
-      "SKIP": 427,
-      "WARN": 60
+      "PASS": 401,
+      "WARN": 56,
+      "FAIL": 0,
+      "ERROR": 0,
+      "SKIP": 411,
+      "INFO": 25
     },
     "issues": {
       "opentype/gdef_mark_chars": {
@@ -39,14 +40,6 @@
         "instances": 4
       },
       "googlefonts/metadata/unreachable_subsetting": {
-        "result": "WARN",
-        "instances": 4
-      },
-      "googlefonts/glyphsets/shape_languages": {
-        "result": "FAIL",
-        "instances": 4
-      },
-      "dotted_circle": {
         "result": "WARN",
         "instances": 4
       },
@@ -82,13 +75,14 @@
   },
   "logic": {
     "fontbakery": "1.1.0",
+    "version": "1.001",
     "counts": {
-      "(not finished)": 0,
-      "FAIL": 4,
-      "INFO": 25,
-      "PASS": 377,
-      "SKIP": 427,
-      "WARN": 60
+      "PASS": 401,
+      "WARN": 56,
+      "FAIL": 0,
+      "ERROR": 0,
+      "SKIP": 411,
+      "INFO": 25
     },
     "issues": {
       "opentype/gdef_mark_chars": {
@@ -120,14 +114,6 @@
         "instances": 4
       },
       "googlefonts/metadata/unreachable_subsetting": {
-        "result": "WARN",
-        "instances": 4
-      },
-      "googlefonts/glyphsets/shape_languages": {
-        "result": "FAIL",
-        "instances": 4
-      },
-      "dotted_circle": {
         "result": "WARN",
         "instances": 4
       },
@@ -163,13 +149,14 @@
   },
   "cadre": {
     "fontbakery": "1.1.0",
+    "version": "1.001",
     "counts": {
-      "(not finished)": 0,
-      "FAIL": 4,
-      "INFO": 25,
-      "PASS": 377,
-      "SKIP": 427,
-      "WARN": 60
+      "PASS": 401,
+      "WARN": 56,
+      "FAIL": 0,
+      "ERROR": 0,
+      "SKIP": 411,
+      "INFO": 25
     },
     "issues": {
       "opentype/gdef_mark_chars": {
@@ -201,14 +188,6 @@
         "instances": 4
       },
       "googlefonts/metadata/unreachable_subsetting": {
-        "result": "WARN",
-        "instances": 4
-      },
-      "googlefonts/glyphsets/shape_languages": {
-        "result": "FAIL",
-        "instances": 4
-      },
-      "dotted_circle": {
         "result": "WARN",
         "instances": 4
       },
