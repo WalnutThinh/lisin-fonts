@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde" format="2">
+  <advance width="593"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="103" y="-9" type="line"/>
+      <point x="44" y="9" type="line"/>
+      <point x="376" y="697" type="line" smooth="yes"/>
+      <point x="390" y="725"/>
+      <point x="420" y="717" type="qcurve"/>
+      <point x="435" y="712"/>
+      <point x="437" y="697" type="qcurve" smooth="yes"/>
+      <point x="551" y="9" type="line"/>
+      <point x="488" y="-9" type="line"/>
+      <point x="451" y="210" type="line"/>
+      <point x="208" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="270" type="line"/>
+      <point x="442" y="270" type="line"/>
+      <point x="389" y="585" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="775" type="qcurve"/>
+      <point x="297" y="795" type="line"/>
+      <point x="355" y="866"/>
+      <point x="439" y="823" type="qcurve" smooth="yes"/>
+      <point x="485" y="801"/>
+      <point x="513" y="835" type="qcurve"/>
+      <point x="552" y="815" type="line"/>
+      <point x="494" y="744"/>
+      <point x="410" y="787" type="qcurve" smooth="yes"/>
+      <point x="364" y="809"/>
+    </contour>
+  </outline>
+</glyph>

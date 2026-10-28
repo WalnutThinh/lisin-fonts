@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C" format="2">
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="-120" y="89" type="line"/>
+      <point x="-47" y="121" type="line"/>
+      <point x="37" y="16" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="-31" y="16" type="line"/>
+      <point x="85" y="121" type="line"/>
+      <point x="148" y="89" type="line"/>
+      <point x="31" y="-16" type="line"/>
+      <point x="26" y="-21"/>
+      <point x="19" y="-24" type="qcurve" smooth="yes"/>
+      <point x="-17" y="-40"/>
+      <point x="-37" y="-16" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

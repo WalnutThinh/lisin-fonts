@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E52.extended" format="2">
+  <advance width="646"/>
+  <unicode hex="1E52"/>
+  <outline>
+    <contour>
+      <point x="482" y="649"/>
+      <point x="482" y="51"/>
+      <point x="164" y="51"/>
+      <point x="164" y="649"/>
+    </contour>
+    <contour>
+      <point x="51" y="731"/>
+      <point x="51" y="-31"/>
+      <point x="595" y="-31"/>
+      <point x="595" y="731"/>
+    </contour>
+    <contour>
+      <point x="218" y="783" type="line"/>
+      <point x="218" y="843" type="line"/>
+      <point x="428" y="843" type="line"/>
+      <point x="428" y="783" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="885" type="line"/>
+      <point x="230" y="908" type="line"/>
+      <point x="340" y="995" type="line"/>
+      <point x="416" y="972" type="line"/>
+    </contour>
+  </outline>
+</glyph>

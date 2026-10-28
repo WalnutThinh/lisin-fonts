@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="259"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="43" y="-25" type="line"/>
+      <point x="43" y="61" type="line"/>
+      <point x="82" y="61" type="line"/>
+      <point x="82" y="639" type="line"/>
+      <point x="43" y="639" type="line"/>
+      <point x="43" y="725" type="line"/>
+      <point x="216" y="725" type="line"/>
+      <point x="216" y="639" type="line"/>
+      <point x="177" y="639" type="line"/>
+      <point x="177" y="61" type="line"/>
+      <point x="216" y="61" type="line"/>
+      <point x="216" y="-25" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="851"/>
+      <point x="148" y="851"/>
+      <point x="167" y="832"/>
+      <point x="167" y="796"/>
+      <point x="148" y="777"/>
+      <point x="112" y="777"/>
+      <point x="93" y="796"/>
+      <point x="93" y="832"/>
+    </contour>
+  </outline>
+</glyph>

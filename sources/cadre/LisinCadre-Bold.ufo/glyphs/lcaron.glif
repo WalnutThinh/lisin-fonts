@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="491"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="56" y="672" type="line"/>
+      <point x="97" y="672" type="line"/>
+      <point x="97" y="120" type="line" smooth="yes"/>
+      <point x="97" y="28"/>
+      <point x="154" y="-5" type="qcurve" smooth="yes"/>
+      <point x="216" y="-42"/>
+      <point x="311" y="-6" type="qcurve"/>
+      <point x="259" y="66" type="line"/>
+      <point x="230" y="55"/>
+      <point x="225" y="58" type="qcurve" smooth="yes"/>
+      <point x="209" y="67"/>
+      <point x="209" y="120" type="qcurve" smooth="yes"/>
+      <point x="209" y="720" type="line"/>
+      <point x="194" y="720" type="line"/>
+      <point x="56" y="720" type="line"/>
+      <point x="51" y="714" type="line"/>
+      <point x="51" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="711" type="qcurve"/>
+      <point x="447" y="720" type="line"/>
+      <point x="474" y="662"/>
+      <point x="416" y="607" type="qcurve"/>
+      <point x="414" y="606"/>
+      <point x="414" y="605" type="qcurve"/>
+      <point x="343" y="623" type="line"/>
+      <point x="344" y="623"/>
+      <point x="345" y="624" type="qcurve" smooth="yes"/>
+      <point x="391" y="667"/>
+    </contour>
+  </outline>
+</glyph>

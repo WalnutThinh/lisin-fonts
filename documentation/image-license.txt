@@ -1,0 +1,3 @@
+The specimen PNG files are included as font project documentation under
+SIL Open Font License 1.1; see ../OFL.txt. They render the actual TTF files.
+No external stock photographs, proprietary mockups or third-party images are included.

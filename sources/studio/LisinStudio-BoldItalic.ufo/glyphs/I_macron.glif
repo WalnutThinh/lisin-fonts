@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="272"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="39" y="-23" type="line"/>
+      <point x="52" y="59" type="line"/>
+      <point x="88" y="59" type="line"/>
+      <point x="181" y="641" type="line"/>
+      <point x="145" y="641" type="line"/>
+      <point x="158" y="723" type="line"/>
+      <point x="344" y="723" type="line"/>
+      <point x="331" y="641" type="line"/>
+      <point x="295" y="641" type="line"/>
+      <point x="202" y="59" type="line"/>
+      <point x="238" y="59" type="line"/>
+      <point x="225" y="-23" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="775" type="line"/>
+      <point x="167" y="835" type="line"/>
+      <point x="369" y="835" type="line"/>
+      <point x="360" y="775" type="line"/>
+    </contour>
+  </outline>
+</glyph>

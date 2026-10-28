@@ -1,0 +1,86 @@
+[
+  {
+    "file": "LisinStudio-Bold.ttf",
+    "approved_sha256": "9a4378a83ce2e16cd4dcd0334914fc9ab61c8fccc567ae5e8edd8e80e4581552",
+    "source": "sources/studio/LisinStudio-Bold.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinStudio-BoldItalic.ttf",
+    "approved_sha256": "d1bc041d6dffe9197f09b9ae3c5a3571bc96eb3e8550d24e97d05da9e6a94651",
+    "source": "sources/studio/LisinStudio-BoldItalic.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinStudio-Italic.ttf",
+    "approved_sha256": "a7334eb9bc41ce14a5cc6c9f2761fff91d47e0c50488f179b97999e381a73963",
+    "source": "sources/studio/LisinStudio-Italic.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinStudio-Regular.ttf",
+    "approved_sha256": "e515f27e72ce01be6533752f50b45d90610629277958d7c4d4d6248dedada055",
+    "source": "sources/studio/LisinStudio-Regular.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinLogic-Bold.ttf",
+    "approved_sha256": "a180dec1e9e294baf5fa503d5b7e9e8e932df28ea577589a9a4ee3be14c6374f",
+    "source": "sources/logic/LisinLogic-Bold.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinLogic-BoldItalic.ttf",
+    "approved_sha256": "96dbb17f01924b4fbc60a786bea88f175fd009bdd247a452abb27a7673cda45d",
+    "source": "sources/logic/LisinLogic-BoldItalic.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinLogic-Italic.ttf",
+    "approved_sha256": "f7694a34f8afaf28900539ea18497aaa089acb039320c731e915a9c340bafb11",
+    "source": "sources/logic/LisinLogic-Italic.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinLogic-Regular.ttf",
+    "approved_sha256": "3dbb3e1d3f54dad3c6ce5f953ef980be823874d163e6fa7eb7db5be4c53efc23",
+    "source": "sources/logic/LisinLogic-Regular.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinCadre-Bold.ttf",
+    "approved_sha256": "4427534f2f69195764469db6e3b07662ccc5c1519c577329f443f57d5626c44f",
+    "source": "sources/cadre/LisinCadre-Bold.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinCadre-BoldItalic.ttf",
+    "approved_sha256": "ca151d1cdebe9a9fdc90dfaa53dd05cfe305985467d381a2b3849b8a3c0c4754",
+    "source": "sources/cadre/LisinCadre-BoldItalic.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinCadre-Italic.ttf",
+    "approved_sha256": "40053c07e9b9cd50a5fa7be06c69a61f5c46c1d09bf9bafbc2f3365dfef2dab8",
+    "source": "sources/cadre/LisinCadre-Italic.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  },
+  {
+    "file": "LisinCadre-Regular.ttf",
+    "approved_sha256": "14fb2ae1e412ea251a89c99493d5aff5a51626a83e5d8d4320ed13dc128d3259",
+    "source": "sources/cadre/LisinCadre-Regular.ufo",
+    "glyphs": 670,
+    "codepoints": 616
+  }
+]

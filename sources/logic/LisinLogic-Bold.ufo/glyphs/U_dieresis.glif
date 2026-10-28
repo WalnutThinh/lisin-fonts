@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis" format="2">
+  <advance width="608"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="43" y="700" type="line"/>
+      <point x="138" y="700" type="line"/>
+      <point x="138" y="225" type="line" smooth="yes"/>
+      <point x="138" y="47"/>
+      <point x="471" y="47"/>
+      <point x="471" y="225" type="qcurve" smooth="yes"/>
+      <point x="471" y="700" type="line"/>
+      <point x="565" y="700" type="line"/>
+      <point x="565" y="225" type="line" smooth="yes"/>
+      <point x="565" y="-39"/>
+      <point x="43" y="-39"/>
+      <point x="43" y="225" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="196" y="818"/>
+      <point x="262" y="818"/>
+      <point x="262" y="752"/>
+      <point x="196" y="752"/>
+    </contour>
+    <contour>
+      <point x="346" y="818"/>
+      <point x="412" y="818"/>
+      <point x="412" y="752"/>
+      <point x="346" y="752"/>
+    </contour>
+  </outline>
+</glyph>

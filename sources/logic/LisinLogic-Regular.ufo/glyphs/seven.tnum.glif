@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tnum" format="2">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="59" y="650" type="line"/>
+      <point x="482" y="650" type="line"/>
+      <point x="482" y="680" type="line"/>
+      <point x="453" y="692" type="line"/>
+      <point x="148" y="12" type="line"/>
+      <point x="207" y="-12" type="line"/>
+      <point x="511" y="668" type="line" smooth="yes"/>
+      <point x="514" y="674"/>
+      <point x="514" y="680" type="qcurve" smooth="yes"/>
+      <point x="514" y="710"/>
+      <point x="482" y="710" type="qcurve" smooth="yes"/>
+      <point x="59" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

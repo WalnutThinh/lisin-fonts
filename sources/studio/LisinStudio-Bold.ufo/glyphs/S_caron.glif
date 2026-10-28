@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron" format="2">
+  <advance width="660"/>
+  <unicode hex="0160"/>
+  <outline>
+    <contour>
+      <point x="586" y="602" type="qcurve"/>
+      <point x="477" y="578" type="line"/>
+      <point x="438" y="672"/>
+      <point x="310" y="662" type="qcurve" smooth="yes"/>
+      <point x="182" y="651"/>
+      <point x="176" y="544" type="qcurve" smooth="yes"/>
+      <point x="173" y="472"/>
+      <point x="362" y="396" type="qcurve" smooth="yes"/>
+      <point x="617" y="292"/>
+      <point x="617" y="165" type="qcurve" smooth="yes"/>
+      <point x="617" y="-20"/>
+      <point x="372" y="-43" type="qcurve" smooth="yes"/>
+      <point x="136" y="-64"/>
+      <point x="43" y="88" type="qcurve"/>
+      <point x="147" y="122" type="line"/>
+      <point x="206" y="25"/>
+      <point x="357" y="39" type="qcurve" smooth="yes"/>
+      <point x="504" y="52"/>
+      <point x="504" y="165" type="qcurve" smooth="yes"/>
+      <point x="504" y="244"/>
+      <point x="306" y="324" type="qcurve" smooth="yes"/>
+      <point x="57" y="425"/>
+      <point x="63" y="546" type="qcurve" smooth="yes"/>
+      <point x="72" y="725"/>
+      <point x="297" y="743" type="qcurve" smooth="yes"/>
+      <point x="519" y="761"/>
+    </contour>
+    <contour>
+      <point x="196" y="903" type="line"/>
+      <point x="264" y="932" type="line"/>
+      <point x="330" y="870" type="line"/>
+      <point x="396" y="932" type="line"/>
+      <point x="464" y="903" type="line"/>
+      <point x="364" y="810" type="line" smooth="yes"/>
+      <point x="359" y="805"/>
+      <point x="353" y="803" type="qcurve"/>
+      <point x="319" y="788"/>
+      <point x="296" y="810" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

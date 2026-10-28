@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECD" format="2">
+  <advance width="530"/>
+  <unicode hex="1ECD"/>
+  <outline>
+    <contour>
+      <point x="394" y="475"/>
+      <point x="394" y="45"/>
+      <point x="135" y="45"/>
+      <point x="135" y="475"/>
+    </contour>
+    <contour>
+      <point x="51" y="533"/>
+      <point x="51" y="-13"/>
+      <point x="479" y="-13"/>
+      <point x="479" y="533"/>
+    </contour>
+    <contour>
+      <point x="233" y="-58"/>
+      <point x="297" y="-58"/>
+      <point x="297" y="-122"/>
+      <point x="233" y="-122"/>
+    </contour>
+  </outline>
+</glyph>

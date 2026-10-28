@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute" format="2">
+  <advance width="549"/>
+  <unicode hex="0107"/>
+  <outline>
+    <contour>
+      <point x="560" y="433" type="qcurve"/>
+      <point x="484" y="407" type="line"/>
+      <point x="427" y="505"/>
+      <point x="320" y="477" type="qcurve" smooth="yes"/>
+      <point x="193" y="444"/>
+      <point x="164" y="260" type="qcurve" smooth="yes"/>
+      <point x="135" y="78"/>
+      <point x="253" y="41" type="qcurve" smooth="yes"/>
+      <point x="355" y="9"/>
+      <point x="454" y="118" type="qcurve"/>
+      <point x="521" y="92" type="line"/>
+      <point x="381" y="-63"/>
+      <point x="213" y="-10" type="qcurve" smooth="yes"/>
+      <point x="49" y="41"/>
+      <point x="84" y="260" type="qcurve" smooth="yes"/>
+      <point x="119" y="482"/>
+      <point x="298" y="529" type="qcurve" smooth="yes"/>
+      <point x="476" y="576"/>
+    </contour>
+    <contour>
+      <point x="338" y="593" type="line"/>
+      <point x="293" y="614" type="line"/>
+      <point x="421" y="728" type="line"/>
+      <point x="466" y="706" type="line"/>
+    </contour>
+  </outline>
+</glyph>

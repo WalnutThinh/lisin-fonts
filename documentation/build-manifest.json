@@ -1,0 +1,50 @@
+[
+  {
+    "file": "fonts/ttf/cadre/LisinCadre-Bold.ttf",
+    "sha256": "0cfb9f48b47cfbacee558b598e64fc337105ddd2c5d1ddad22dad4709675808a"
+  },
+  {
+    "file": "fonts/ttf/cadre/LisinCadre-BoldItalic.ttf",
+    "sha256": "beb95078f964111f0a8277abb961c7ceaf245f4cd8ac0e575148a842fb1882c7"
+  },
+  {
+    "file": "fonts/ttf/cadre/LisinCadre-Italic.ttf",
+    "sha256": "809205ce1ef4547686429809a613b06f40bb482a0dae650c884d61e09ab6260f"
+  },
+  {
+    "file": "fonts/ttf/cadre/LisinCadre-Regular.ttf",
+    "sha256": "98692117b389461671328b662e8a459eb0e1b88116e52bd6972fb511678a8ebb"
+  },
+  {
+    "file": "fonts/ttf/logic/LisinLogic-Bold.ttf",
+    "sha256": "3303bb76179d48bc195624c762dce973d245319a3d143f4be12bc5901e1880e1"
+  },
+  {
+    "file": "fonts/ttf/logic/LisinLogic-BoldItalic.ttf",
+    "sha256": "33536ce380847d78f24c1b7d8714fa3833ec46750ad9967e2b724bfb14b8a1ff"
+  },
+  {
+    "file": "fonts/ttf/logic/LisinLogic-Italic.ttf",
+    "sha256": "23c27ceaddb3af1d071c294da96cf1d5c61b1bb1c123a5503b8450ea2b1d0356"
+  },
+  {
+    "file": "fonts/ttf/logic/LisinLogic-Regular.ttf",
+    "sha256": "5477e4e28a312abc85f828860493bc1d4c445ad262d6cb31e2e684945124fbe2"
+  },
+  {
+    "file": "fonts/ttf/studio/LisinStudio-Bold.ttf",
+    "sha256": "71982ab83d0cb194ecef893bf7f50d0dcc50f4c00bca599dae5b67500b9842d3"
+  },
+  {
+    "file": "fonts/ttf/studio/LisinStudio-BoldItalic.ttf",
+    "sha256": "787aefd641506795a4e05b6e654e0eacb75149f52a94792de619c7ae4747fdaa"
+  },
+  {
+    "file": "fonts/ttf/studio/LisinStudio-Italic.ttf",
+    "sha256": "938613779caee49955dad6565265d7343913f29f67b35873070fa73dd22b4d40"
+  },
+  {
+    "file": "fonts/ttf/studio/LisinStudio-Regular.ttf",
+    "sha256": "9a48f4abaf74662846f3614cfd4aef39226278df320b1617998b09e0bd24cd9c"
+  }
+]

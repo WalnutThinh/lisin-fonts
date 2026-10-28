@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="577"/>
+  <unicode hex="016E"/>
+  <outline>
+    <contour>
+      <point x="154" y="700" type="line"/>
+      <point x="218" y="700" type="line"/>
+      <point x="143" y="225" type="line" smooth="yes"/>
+      <point x="112" y="34"/>
+      <point x="476" y="34"/>
+      <point x="507" y="225" type="qcurve" smooth="yes"/>
+      <point x="582" y="700" type="line"/>
+      <point x="645" y="700" type="line"/>
+      <point x="570" y="225" type="line" smooth="yes"/>
+      <point x="530" y="-26"/>
+      <point x="39" y="-26"/>
+      <point x="79" y="225" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="310" y="752"/>
+      <point x="331" y="887"/>
+      <point x="527" y="887"/>
+      <point x="506" y="752"/>
+    </contour>
+    <contour>
+      <point x="443" y="796"/>
+      <point x="451" y="843"/>
+      <point x="395" y="843"/>
+      <point x="387" y="796"/>
+    </contour>
+  </outline>
+</glyph>

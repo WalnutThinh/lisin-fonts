@@ -1,0 +1,1596 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+table GDEF {
+    GlyphClassDef [A Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve uni0122 Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K uni0136 L Lacute Lcaron uni013B Lslash M N Nacute Ncaron uni0145 Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla uni0218 uni1E9E T Tcaron uni021A U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve uni01CE acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla cdotaccent d eth dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek f g gbreve uni0123 gdotaccent h hbar i dotlessi iacute icircumflex idieresis igrave ij imacron iogonek j uni0237 k uni0137 l lacute lcaron uni013C lslash m n nacute ncaron uni0146 ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron uni0157 s sacute scaron scedilla uni0219 germandbls t tcaron uni021B u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent uni0128 uni0129 uni0168 uni0169 uni01A0 uni01A1 uni01AF uni01B0 uni1EA0 uni1EA1 uni1EA2 uni1EA3 uni1EB8 uni1EB9 uni1EBA uni1EBB uni1EBC uni1EBD uni1EC8 uni1EC9 uni1ECA uni1ECB uni1ECC uni1ECD uni1ECE uni1ECF uni1EE4 uni1EE5 uni1EE6 uni1EE7 uni1EF4 uni1EF5 uni1EF6 uni1EF7 uni1EF8 uni1EF9 uni1EA4 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAA uni1EAB uni1EAC uni1EAD uni1EAE uni1EAF uni1EB0 uni1EB1 uni1EB2 uni1EB3 uni1EB4 uni1EB5 uni1EB6 uni1EB7 uni1EBE uni1EBF uni1EC0 uni1EC1 uni1EC2 uni1EC3 uni1EC4 uni1EC5 uni1EC6 uni1EC7 uni1ED0 uni1ED1 uni1ED2 uni1ED3 uni1ED4 uni1ED5 uni1ED6 uni1ED7 uni1ED8 uni1ED9 uni1EDA uni1EDB uni1EDC uni1EDD uni1EDE uni1EDF uni1EE0 uni1EE1 uni1EE2 uni1EE3 uni1EE8 uni1EE9 uni1EEA uni1EEB uni1EEC uni1EED uni1EEE uni1EEF uni1EF0 uni1EF1 uni0108.extended uni0109.extended uni0114.extended uni0115.extended uni011C.extended uni011D.extended uni0124.extended uni0125.extended uni012C.extended uni012D.extended uni0134.extended uni0135.extended uni014E.extended uni014F.extended uni015C.extended uni015D.extended uni0162.extended uni0163.extended uni01CF.extended uni01D0.extended uni01D1.extended uni01D2.extended uni01D3.extended uni01D4.extended uni01D5.extended uni01D6.extended uni01D7.extended uni01D8.extended uni01D9.extended uni01DA.extended uni01DB.extended uni01DC.extended uni01DE.extended uni01DF.extended uni01E0.extended uni01E1.extended uni01E2.extended uni01E3.extended uni01E6.extended uni01E7.extended uni01E8.extended uni01E9.extended uni01EA.extended uni01EB.extended uni01EC.extended uni01ED.extended uni01F0.extended uni01F4.extended uni01F5.extended uni01F8.extended uni01F9.extended uni01FA.extended uni01FB.extended uni01FC.extended uni01FD.extended uni01FE.extended uni01FF.extended uni021E.extended uni021F.extended uni0226.extended uni0227.extended uni0228.extended uni0229.extended uni022A.extended uni022B.extended uni022C.extended uni022D.extended uni022E.extended uni022F.extended uni0230.extended uni0231.extended uni0232.extended uni0233.extended uni1E02.extended uni1E03.extended uni1E04.extended uni1E05.extended uni1E08.extended uni1E09.extended uni1E0A.extended uni1E0B.extended uni1E0C.extended uni1E0D.extended uni1E10.extended uni1E11.extended uni1E14.extended uni1E15.extended uni1E16.extended uni1E17.extended uni1E1C.extended uni1E1D.extended uni1E1E.extended uni1E1F.extended uni1E20.extended uni1E21.extended uni1E22.extended uni1E23.extended uni1E24.extended uni1E25.extended uni1E26.extended uni1E27.extended uni1E28.extended uni1E29.extended uni1E2E.extended uni1E2F.extended uni1E30.extended uni1E31.extended uni1E32.extended uni1E33.extended uni1E36.extended uni1E37.extended uni1E38.extended uni1E39.extended uni1E3E.extended uni1E3F.extended uni1E40.extended uni1E41.extended uni1E42.extended uni1E43.extended uni1E44.extended uni1E45.extended uni1E46.extended uni1E47.extended uni1E4C.extended uni1E4D.extended uni1E4E.extended uni1E4F.extended uni1E50.extended uni1E51.extended uni1E52.extended uni1E53.extended uni1E54.extended uni1E55.extended uni1E56.extended uni1E57.extended uni1E58.extended uni1E59.extended uni1E5A.extended uni1E5B.extended uni1E5C.extended uni1E5D.extended uni1E60.extended uni1E61.extended uni1E62.extended uni1E63.extended uni1E64.extended uni1E65.extended uni1E66.extended uni1E67.extended uni1E68.extended uni1E69.extended uni1E6A.extended uni1E6B.extended uni1E6C.extended uni1E6D.extended uni1E78.extended uni1E79.extended uni1E7A.extended uni1E7B.extended uni1E7C.extended uni1E7D.extended uni1E7E.extended uni1E7F.extended uni1E86.extended uni1E87.extended uni1E88.extended uni1E89.extended uni1E8A.extended uni1E8B.extended uni1E8C.extended uni1E8D.extended uni1E8E.extended uni1E8F.extended uni1E90.extended uni1E91.extended uni1E92.extended uni1E93.extended uni1E97.extended uni1E98.extended uni1E99.extended], [], [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328 hookabovecomb dotbelowcomb], [];
+} GDEF;
+
+    markClass [uni0308 uni0307] <anchor -8 -52> @Anchor2__Anchor2;
+    markClass gravecomb <anchor -20 -65> @Anchor2__Anchor2;
+    markClass acutecomb <anchor 0 -65> @Anchor2__Anchor2;
+    markClass uni030B <anchor 319 528> @Anchor2__Anchor2;
+    markClass uni0302 <anchor -10 -65> @Anchor2__Anchor2;
+    markClass uni030C <anchor -12 -74> @Anchor2__Anchor2;
+    markClass uni0306 <anchor -10 -63> @Anchor2__Anchor2;
+    markClass uni030A <anchor -13 -82> @Anchor2__Anchor2;
+    markClass tildecomb <anchor -9 -56> @Anchor2__Anchor2;
+    markClass uni0304 <anchor -9 -54> @Anchor2__Anchor2;
+    markClass uni0312 <anchor 212 521> @Anchor2__Anchor2;
+    markClass hookabovecomb <anchor 11 -54> @Anchor2__Anchor2;
+
+    markClass uni0326 <anchor 126 -12> @Anchor3__Anchor3;
+    markClass uni0327 <anchor 179 67> @Anchor3__Anchor3;
+    markClass uni0328 <anchor 161 65> @Anchor3__Anchor3;
+    markClass dotbelowcomb <anchor 7 45> @Anchor3__Anchor3;
+
+    markClass [uni0308 uni0307] <anchor -8 -52> @Anchor5_Anchor5_;
+    markClass gravecomb <anchor -20 -65> @Anchor5_Anchor5_;
+    markClass acutecomb <anchor 0 -65> @Anchor5_Anchor5_;
+    markClass uni030B <anchor 319 528> @Anchor5_Anchor5_;
+    markClass uni0302 <anchor -10 -65> @Anchor5_Anchor5_;
+    markClass uni030C <anchor -12 -74> @Anchor5_Anchor5_;
+    markClass uni0306 <anchor -10 -63> @Anchor5_Anchor5_;
+    markClass uni030A <anchor -13 -82> @Anchor5_Anchor5_;
+    markClass tildecomb <anchor -9 -56> @Anchor5_Anchor5_;
+    markClass uni0304 <anchor -9 -54> @Anchor5_Anchor5_;
+    markClass uni0312 <anchor 212 521> @Anchor5_Anchor5_;
+    markClass hookabovecomb <anchor 11 -54> @Anchor5_Anchor5_;
+
+
+lookup LigatureSubstitution1 {
+    lookupflag 0;
+    ;
+    sub A dotbelowcomb uni0302 by uni1EAC;
+    sub A dotbelowcomb uni0306 by uni1EB6;
+    sub A uni0302 acutecomb by uni1EA4;
+    sub A uni0302 gravecomb by uni1EA6;
+    sub A uni0302 hookabovecomb by uni1EA8;
+    sub A uni0302 tildecomb by uni1EAA;
+    sub A uni0306 acutecomb by uni1EAE;
+    sub A uni0306 gravecomb by uni1EB0;
+    sub A uni0306 hookabovecomb by uni1EB2;
+    sub A uni0306 tildecomb by uni1EB4;
+    sub A uni0307 uni0304 by uni01E0.extended;
+    sub A uni0308 uni0304 by uni01DE.extended;
+    sub A uni030A acutecomb by uni01FA.extended;
+    sub A acutecomb by Aacute;
+    sub A dotbelowcomb by uni1EA0;
+    sub A gravecomb by Agrave;
+    sub A hookabovecomb by uni1EA2;
+    sub A tildecomb by Atilde;
+    sub A uni0302 by Acircumflex;
+    sub A uni0304 by Amacron;
+    sub A uni0306 by Abreve;
+    sub A uni0307 by uni0226.extended;
+    sub A uni0308 by Adieresis;
+    sub A uni030A by Aring;
+    sub A uni030C by uni01CD;
+    sub A uni0328 by Aogonek;
+    sub Abreve acutecomb by uni1EAE;
+    sub Abreve gravecomb by uni1EB0;
+    sub Abreve hookabovecomb by uni1EB2;
+    sub Abreve tildecomb by uni1EB4;
+    sub Acircumflex acutecomb by uni1EA4;
+    sub Acircumflex gravecomb by uni1EA6;
+    sub Acircumflex hookabovecomb by uni1EA8;
+    sub Acircumflex tildecomb by uni1EAA;
+    sub Adieresis uni0304 by uni01DE.extended;
+    sub Aring acutecomb by uni01FA.extended;
+    sub AE acutecomb by uni01FC.extended;
+    sub AE uni0304 by uni01E2.extended;
+    sub B dotbelowcomb by uni1E04.extended;
+    sub B uni0307 by uni1E02.extended;
+    sub C uni0327 acutecomb by uni1E08.extended;
+    sub C acutecomb by Cacute;
+    sub C uni0302 by uni0108.extended;
+    sub C uni0307 by Cdotaccent;
+    sub C uni030C by Ccaron;
+    sub C uni0327 by Ccedilla;
+    sub Ccedilla acutecomb by uni1E08.extended;
+    sub D dotbelowcomb by uni1E0C.extended;
+    sub D uni0307 by uni1E0A.extended;
+    sub D uni030C by Dcaron;
+    sub D uni0327 by uni1E10.extended;
+    sub E dotbelowcomb uni0302 by uni1EC6;
+    sub E uni0302 acutecomb by uni1EBE;
+    sub E uni0302 gravecomb by uni1EC0;
+    sub E uni0302 hookabovecomb by uni1EC2;
+    sub E uni0302 tildecomb by uni1EC4;
+    sub E uni0304 acutecomb by uni1E16.extended;
+    sub E uni0304 gravecomb by uni1E14.extended;
+    sub E uni0327 uni0306 by uni1E1C.extended;
+    sub E acutecomb by Eacute;
+    sub E dotbelowcomb by uni1EB8;
+    sub E gravecomb by Egrave;
+    sub E hookabovecomb by uni1EBA;
+    sub E tildecomb by uni1EBC;
+    sub E uni0302 by Ecircumflex;
+    sub E uni0304 by Emacron;
+    sub E uni0306 by uni0114.extended;
+    sub E uni0307 by Edotaccent;
+    sub E uni0308 by Edieresis;
+    sub E uni030C by Ecaron;
+    sub E uni0327 by uni0228.extended;
+    sub E uni0328 by Eogonek;
+    sub Ecircumflex acutecomb by uni1EBE;
+    sub Ecircumflex gravecomb by uni1EC0;
+    sub Ecircumflex hookabovecomb by uni1EC2;
+    sub Ecircumflex tildecomb by uni1EC4;
+    sub Emacron acutecomb by uni1E16.extended;
+    sub Emacron gravecomb by uni1E14.extended;
+    sub F uni0307 by uni1E1E.extended;
+    sub G acutecomb by uni01F4.extended;
+    sub G uni0302 by uni011C.extended;
+    sub G uni0304 by uni1E20.extended;
+    sub G uni0306 by Gbreve;
+    sub G uni0307 by Gdotaccent;
+    sub G uni030C by uni01E6.extended;
+    sub G uni0327 by uni0122;
+    sub H dotbelowcomb by uni1E24.extended;
+    sub H uni0302 by uni0124.extended;
+    sub H uni0307 by uni1E22.extended;
+    sub H uni0308 by uni1E26.extended;
+    sub H uni030C by uni021E.extended;
+    sub H uni0327 by uni1E28.extended;
+    sub I uni0308 acutecomb by uni1E2E.extended;
+    sub I acutecomb by Iacute;
+    sub I dotbelowcomb by uni1ECA;
+    sub I gravecomb by Igrave;
+    sub I hookabovecomb by uni1EC8;
+    sub I tildecomb by uni0128;
+    sub I uni0302 by Icircumflex;
+    sub I uni0304 by Imacron;
+    sub I uni0306 by uni012C.extended;
+    sub I uni0307 by Idotaccent;
+    sub I uni0308 by Idieresis;
+    sub I uni030C by uni01CF.extended;
+    sub I uni0328 by Iogonek;
+    sub Idieresis acutecomb by uni1E2E.extended;
+    sub J uni0302 by uni0134.extended;
+    sub K acutecomb by uni1E30.extended;
+    sub K dotbelowcomb by uni1E32.extended;
+    sub K uni030C by uni01E8.extended;
+    sub K uni0327 by uni0136;
+    sub L dotbelowcomb uni0304 by uni1E38.extended;
+    sub L acutecomb by Lacute;
+    sub L dotbelowcomb by uni1E36.extended;
+    sub L uni030C by Lcaron;
+    sub L uni0327 by uni013B;
+    sub M acutecomb by uni1E3E.extended;
+    sub M dotbelowcomb by uni1E42.extended;
+    sub M uni0307 by uni1E40.extended;
+    sub N acutecomb by Nacute;
+    sub N dotbelowcomb by uni1E46.extended;
+    sub N gravecomb by uni01F8.extended;
+    sub N tildecomb by Ntilde;
+    sub N uni0307 by uni1E44.extended;
+    sub N uni030C by Ncaron;
+    sub N uni0327 by uni0145;
+    sub O dotbelowcomb uni0302 by uni1ED8;
+    sub O horncomb acutecomb by uni1EDA;
+    sub O horncomb dotbelowcomb by uni1EE2;
+    sub O horncomb gravecomb by uni1EDC;
+    sub O horncomb hookabovecomb by uni1EDE;
+    sub O horncomb tildecomb by uni1EE0;
+    sub O tildecomb acutecomb by uni1E4C.extended;
+    sub O tildecomb uni0304 by uni022C.extended;
+    sub O tildecomb uni0308 by uni1E4E.extended;
+    sub O uni0302 acutecomb by uni1ED0;
+    sub O uni0302 gravecomb by uni1ED2;
+    sub O uni0302 hookabovecomb by uni1ED4;
+    sub O uni0302 tildecomb by uni1ED6;
+    sub O uni0304 acutecomb by uni1E52.extended;
+    sub O uni0304 gravecomb by uni1E50.extended;
+    sub O uni0307 uni0304 by uni0230.extended;
+    sub O uni0308 uni0304 by uni022A.extended;
+    sub O uni0328 uni0304 by uni01EC.extended;
+    sub O acutecomb by Oacute;
+    sub O dotbelowcomb by uni1ECC;
+    sub O gravecomb by Ograve;
+    sub O hookabovecomb by uni1ECE;
+    sub O horncomb by uni01A0;
+    sub O tildecomb by Otilde;
+    sub O uni0302 by Ocircumflex;
+    sub O uni0304 by Omacron;
+    sub O uni0306 by uni014E.extended;
+    sub O uni0307 by uni022E.extended;
+    sub O uni0308 by Odieresis;
+    sub O uni030B by Ohungarumlaut;
+    sub O uni030C by uni01D1.extended;
+    sub O uni0328 by uni01EA.extended;
+    sub Ocircumflex acutecomb by uni1ED0;
+    sub Ocircumflex gravecomb by uni1ED2;
+    sub Ocircumflex hookabovecomb by uni1ED4;
+    sub Ocircumflex tildecomb by uni1ED6;
+    sub Odieresis uni0304 by uni022A.extended;
+    sub Omacron acutecomb by uni1E52.extended;
+    sub Omacron gravecomb by uni1E50.extended;
+    sub Oslash acutecomb by uni01FE.extended;
+    sub Otilde acutecomb by uni1E4C.extended;
+    sub Otilde uni0304 by uni022C.extended;
+    sub Otilde uni0308 by uni1E4E.extended;
+    sub P acutecomb by uni1E54.extended;
+    sub P uni0307 by uni1E56.extended;
+    sub R dotbelowcomb uni0304 by uni1E5C.extended;
+    sub R acutecomb by Racute;
+    sub R dotbelowcomb by uni1E5A.extended;
+    sub R uni0307 by uni1E58.extended;
+    sub R uni030C by Rcaron;
+    sub R uni0327 by uni0156;
+    sub S acutecomb uni0307 by uni1E64.extended;
+    sub S dotbelowcomb uni0307 by uni1E68.extended;
+    sub S uni030C uni0307 by uni1E66.extended;
+    sub S acutecomb by Sacute;
+    sub S dotbelowcomb by uni1E62.extended;
+    sub S uni0302 by uni015C.extended;
+    sub S uni0307 by uni1E60.extended;
+    sub S uni030C by Scaron;
+    sub S uni0326 by uni0218;
+    sub S uni0327 by Scedilla;
+    sub Sacute uni0307 by uni1E64.extended;
+    sub Scaron uni0307 by uni1E66.extended;
+    sub T dotbelowcomb by uni1E6C.extended;
+    sub T uni0307 by uni1E6A.extended;
+    sub T uni030C by Tcaron;
+    sub T uni0326 by uni021A;
+    sub T uni0327 by uni0162.extended;
+    sub U horncomb acutecomb by uni1EE8;
+    sub U horncomb dotbelowcomb by uni1EF0;
+    sub U horncomb gravecomb by uni1EEA;
+    sub U horncomb hookabovecomb by uni1EEC;
+    sub U horncomb tildecomb by uni1EEE;
+    sub U tildecomb acutecomb by uni1E78.extended;
+    sub U uni0304 uni0308 by uni1E7A.extended;
+    sub U uni0308 acutecomb by uni01D7.extended;
+    sub U uni0308 gravecomb by uni01DB.extended;
+    sub U uni0308 uni0304 by uni01D5.extended;
+    sub U uni0308 uni030C by uni01D9.extended;
+    sub U acutecomb by Uacute;
+    sub U dotbelowcomb by uni1EE4;
+    sub U gravecomb by Ugrave;
+    sub U hookabovecomb by uni1EE6;
+    sub U horncomb by uni01AF;
+    sub U tildecomb by uni0168;
+    sub U uni0302 by Ucircumflex;
+    sub U uni0304 by Umacron;
+    sub U uni0306 by Ubreve;
+    sub U uni0308 by Udieresis;
+    sub U uni030A by Uring;
+    sub U uni030B by Uhungarumlaut;
+    sub U uni030C by uni01D3.extended;
+    sub U uni0328 by Uogonek;
+    sub Udieresis acutecomb by uni01D7.extended;
+    sub Udieresis gravecomb by uni01DB.extended;
+    sub Udieresis uni0304 by uni01D5.extended;
+    sub Udieresis uni030C by uni01D9.extended;
+    sub Umacron uni0308 by uni1E7A.extended;
+    sub V dotbelowcomb by uni1E7E.extended;
+    sub V tildecomb by uni1E7C.extended;
+    sub W acutecomb by Wacute;
+    sub W dotbelowcomb by uni1E88.extended;
+    sub W gravecomb by Wgrave;
+    sub W uni0302 by Wcircumflex;
+    sub W uni0307 by uni1E86.extended;
+    sub W uni0308 by Wdieresis;
+    sub X uni0307 by uni1E8A.extended;
+    sub X uni0308 by uni1E8C.extended;
+    sub Y acutecomb by Yacute;
+    sub Y dotbelowcomb by uni1EF4;
+    sub Y gravecomb by Ygrave;
+    sub Y hookabovecomb by uni1EF6;
+    sub Y tildecomb by uni1EF8;
+    sub Y uni0302 by Ycircumflex;
+    sub Y uni0304 by uni0232.extended;
+    sub Y uni0307 by uni1E8E.extended;
+    sub Y uni0308 by Ydieresis;
+    sub Z acutecomb by Zacute;
+    sub Z dotbelowcomb by uni1E92.extended;
+    sub Z uni0302 by uni1E90.extended;
+    sub Z uni0307 by Zdotaccent;
+    sub Z uni030C by Zcaron;
+    sub a dotbelowcomb uni0302 by uni1EAD;
+    sub a dotbelowcomb uni0306 by uni1EB7;
+    sub a uni0302 acutecomb by uni1EA5;
+    sub a uni0302 gravecomb by uni1EA7;
+    sub a uni0302 hookabovecomb by uni1EA9;
+    sub a uni0302 tildecomb by uni1EAB;
+    sub a uni0306 acutecomb by uni1EAF;
+    sub a uni0306 gravecomb by uni1EB1;
+    sub a uni0306 hookabovecomb by uni1EB3;
+    sub a uni0306 tildecomb by uni1EB5;
+    sub a uni0307 uni0304 by uni01E1.extended;
+    sub a uni0308 uni0304 by uni01DF.extended;
+    sub a uni030A acutecomb by uni01FB.extended;
+    sub a acutecomb by aacute;
+    sub a dotbelowcomb by uni1EA1;
+    sub a gravecomb by agrave;
+    sub a hookabovecomb by uni1EA3;
+    sub a tildecomb by atilde;
+    sub a uni0302 by acircumflex;
+    sub a uni0304 by amacron;
+    sub a uni0306 by abreve;
+    sub a uni0307 by uni0227.extended;
+    sub a uni0308 by adieresis;
+    sub a uni030A by aring;
+    sub a uni030C by uni01CE;
+    sub a uni0328 by aogonek;
+    sub abreve acutecomb by uni1EAF;
+    sub abreve gravecomb by uni1EB1;
+    sub abreve hookabovecomb by uni1EB3;
+    sub abreve tildecomb by uni1EB5;
+    sub acircumflex acutecomb by uni1EA5;
+    sub acircumflex gravecomb by uni1EA7;
+    sub acircumflex hookabovecomb by uni1EA9;
+    sub acircumflex tildecomb by uni1EAB;
+    sub adieresis uni0304 by uni01DF.extended;
+    sub aring acutecomb by uni01FB.extended;
+    sub ae acutecomb by uni01FD.extended;
+    sub ae uni0304 by uni01E3.extended;
+    sub b dotbelowcomb by uni1E05.extended;
+    sub b uni0307 by uni1E03.extended;
+    sub c uni0327 acutecomb by uni1E09.extended;
+    sub c acutecomb by cacute;
+    sub c uni0302 by uni0109.extended;
+    sub c uni0307 by cdotaccent;
+    sub c uni030C by ccaron;
+    sub c uni0327 by ccedilla;
+    sub ccedilla acutecomb by uni1E09.extended;
+    sub d dotbelowcomb by uni1E0D.extended;
+    sub d uni0307 by uni1E0B.extended;
+    sub d uni030C by dcaron;
+    sub d uni0327 by uni1E11.extended;
+    sub e dotbelowcomb uni0302 by uni1EC7;
+    sub e uni0302 acutecomb by uni1EBF;
+    sub e uni0302 gravecomb by uni1EC1;
+    sub e uni0302 hookabovecomb by uni1EC3;
+    sub e uni0302 tildecomb by uni1EC5;
+    sub e uni0304 acutecomb by uni1E17.extended;
+    sub e uni0304 gravecomb by uni1E15.extended;
+    sub e uni0327 uni0306 by uni1E1D.extended;
+    sub e acutecomb by eacute;
+    sub e dotbelowcomb by uni1EB9;
+    sub e gravecomb by egrave;
+    sub e hookabovecomb by uni1EBB;
+    sub e tildecomb by uni1EBD;
+    sub e uni0302 by ecircumflex;
+    sub e uni0304 by emacron;
+    sub e uni0306 by uni0115.extended;
+    sub e uni0307 by edotaccent;
+    sub e uni0308 by edieresis;
+    sub e uni030C by ecaron;
+    sub e uni0327 by uni0229.extended;
+    sub e uni0328 by eogonek;
+    sub ecircumflex acutecomb by uni1EBF;
+    sub ecircumflex gravecomb by uni1EC1;
+    sub ecircumflex hookabovecomb by uni1EC3;
+    sub ecircumflex tildecomb by uni1EC5;
+    sub emacron acutecomb by uni1E17.extended;
+    sub emacron gravecomb by uni1E15.extended;
+    sub f uni0307 by uni1E1F.extended;
+    sub g acutecomb by uni01F5.extended;
+    sub g uni0302 by uni011D.extended;
+    sub g uni0304 by uni1E21.extended;
+    sub g uni0306 by gbreve;
+    sub g uni0307 by gdotaccent;
+    sub g uni030C by uni01E7.extended;
+    sub g uni0327 by uni0123;
+    sub h dotbelowcomb by uni1E25.extended;
+    sub h uni0302 by uni0125.extended;
+    sub h uni0307 by uni1E23.extended;
+    sub h uni0308 by uni1E27.extended;
+    sub h uni030C by uni021F.extended;
+    sub h uni0327 by uni1E29.extended;
+    sub i uni0308 acutecomb by uni1E2F.extended;
+    sub i acutecomb by iacute;
+    sub i dotbelowcomb by uni1ECB;
+    sub i gravecomb by igrave;
+    sub i hookabovecomb by uni1EC9;
+    sub i tildecomb by uni0129;
+    sub i uni0302 by icircumflex;
+    sub i uni0304 by imacron;
+    sub i uni0306 by uni012D.extended;
+    sub i uni0308 by idieresis;
+    sub i uni030C by uni01D0.extended;
+    sub i uni0328 by iogonek;
+    sub idieresis acutecomb by uni1E2F.extended;
+    sub j uni0302 by uni0135.extended;
+    sub j uni030C by uni01F0.extended;
+    sub k acutecomb by uni1E31.extended;
+    sub k dotbelowcomb by uni1E33.extended;
+    sub k uni030C by uni01E9.extended;
+    sub k uni0327 by uni0137;
+    sub l dotbelowcomb uni0304 by uni1E39.extended;
+    sub l acutecomb by lacute;
+    sub l dotbelowcomb by uni1E37.extended;
+    sub l uni030C by lcaron;
+    sub l uni0327 by uni013C;
+    sub m acutecomb by uni1E3F.extended;
+    sub m dotbelowcomb by uni1E43.extended;
+    sub m uni0307 by uni1E41.extended;
+    sub n acutecomb by nacute;
+    sub n dotbelowcomb by uni1E47.extended;
+    sub n gravecomb by uni01F9.extended;
+    sub n tildecomb by ntilde;
+    sub n uni0307 by uni1E45.extended;
+    sub n uni030C by ncaron;
+    sub n uni0327 by uni0146;
+    sub o dotbelowcomb uni0302 by uni1ED9;
+    sub o horncomb acutecomb by uni1EDB;
+    sub o horncomb dotbelowcomb by uni1EE3;
+    sub o horncomb gravecomb by uni1EDD;
+    sub o horncomb hookabovecomb by uni1EDF;
+    sub o horncomb tildecomb by uni1EE1;
+    sub o tildecomb acutecomb by uni1E4D.extended;
+    sub o tildecomb uni0304 by uni022D.extended;
+    sub o tildecomb uni0308 by uni1E4F.extended;
+    sub o uni0302 acutecomb by uni1ED1;
+    sub o uni0302 gravecomb by uni1ED3;
+    sub o uni0302 hookabovecomb by uni1ED5;
+    sub o uni0302 tildecomb by uni1ED7;
+    sub o uni0304 acutecomb by uni1E53.extended;
+    sub o uni0304 gravecomb by uni1E51.extended;
+    sub o uni0307 uni0304 by uni0231.extended;
+    sub o uni0308 uni0304 by uni022B.extended;
+    sub o uni0328 uni0304 by uni01ED.extended;
+    sub o acutecomb by oacute;
+    sub o dotbelowcomb by uni1ECD;
+    sub o gravecomb by ograve;
+    sub o hookabovecomb by uni1ECF;
+    sub o horncomb by uni01A1;
+    sub o tildecomb by otilde;
+    sub o uni0302 by ocircumflex;
+    sub o uni0304 by omacron;
+    sub o uni0306 by uni014F.extended;
+    sub o uni0307 by uni022F.extended;
+    sub o uni0308 by odieresis;
+    sub o uni030B by ohungarumlaut;
+    sub o uni030C by uni01D2.extended;
+    sub o uni0328 by uni01EB.extended;
+    sub ocircumflex acutecomb by uni1ED1;
+    sub ocircumflex gravecomb by uni1ED3;
+    sub ocircumflex hookabovecomb by uni1ED5;
+    sub ocircumflex tildecomb by uni1ED7;
+    sub odieresis uni0304 by uni022B.extended;
+    sub omacron acutecomb by uni1E53.extended;
+    sub omacron gravecomb by uni1E51.extended;
+    sub oslash acutecomb by uni01FF.extended;
+    sub otilde acutecomb by uni1E4D.extended;
+    sub otilde uni0304 by uni022D.extended;
+    sub otilde uni0308 by uni1E4F.extended;
+    sub p acutecomb by uni1E55.extended;
+    sub p uni0307 by uni1E57.extended;
+    sub r dotbelowcomb uni0304 by uni1E5D.extended;
+    sub r acutecomb by racute;
+    sub r dotbelowcomb by uni1E5B.extended;
+    sub r uni0307 by uni1E59.extended;
+    sub r uni030C by rcaron;
+    sub r uni0327 by uni0157;
+    sub s acutecomb uni0307 by uni1E65.extended;
+    sub s dotbelowcomb uni0307 by uni1E69.extended;
+    sub s uni030C uni0307 by uni1E67.extended;
+    sub s acutecomb by sacute;
+    sub s dotbelowcomb by uni1E63.extended;
+    sub s uni0302 by uni015D.extended;
+    sub s uni0307 by uni1E61.extended;
+    sub s uni030C by scaron;
+    sub s uni0326 by uni0219;
+    sub s uni0327 by scedilla;
+    sub sacute uni0307 by uni1E65.extended;
+    sub scaron uni0307 by uni1E67.extended;
+    sub t dotbelowcomb by uni1E6D.extended;
+    sub t uni0307 by uni1E6B.extended;
+    sub t uni0308 by uni1E97.extended;
+    sub t uni030C by tcaron;
+    sub t uni0326 by uni021B;
+    sub t uni0327 by uni0163.extended;
+    sub u horncomb acutecomb by uni1EE9;
+    sub u horncomb dotbelowcomb by uni1EF1;
+    sub u horncomb gravecomb by uni1EEB;
+    sub u horncomb hookabovecomb by uni1EED;
+    sub u horncomb tildecomb by uni1EEF;
+    sub u tildecomb acutecomb by uni1E79.extended;
+    sub u uni0304 uni0308 by uni1E7B.extended;
+    sub u uni0308 acutecomb by uni01D8.extended;
+    sub u uni0308 gravecomb by uni01DC.extended;
+    sub u uni0308 uni0304 by uni01D6.extended;
+    sub u uni0308 uni030C by uni01DA.extended;
+    sub u acutecomb by uacute;
+    sub u dotbelowcomb by uni1EE5;
+    sub u gravecomb by ugrave;
+    sub u hookabovecomb by uni1EE7;
+    sub u horncomb by uni01B0;
+    sub u tildecomb by uni0169;
+    sub u uni0302 by ucircumflex;
+    sub u uni0304 by umacron;
+    sub u uni0306 by ubreve;
+    sub u uni0308 by udieresis;
+    sub u uni030A by uring;
+    sub u uni030B by uhungarumlaut;
+    sub u uni030C by uni01D4.extended;
+    sub u uni0328 by uogonek;
+    sub udieresis acutecomb by uni01D8.extended;
+    sub udieresis gravecomb by uni01DC.extended;
+    sub udieresis uni0304 by uni01D6.extended;
+    sub udieresis uni030C by uni01DA.extended;
+    sub umacron uni0308 by uni1E7B.extended;
+    sub v dotbelowcomb by uni1E7F.extended;
+    sub v tildecomb by uni1E7D.extended;
+    sub w acutecomb by wacute;
+    sub w dotbelowcomb by uni1E89.extended;
+    sub w gravecomb by wgrave;
+    sub w uni0302 by wcircumflex;
+    sub w uni0307 by uni1E87.extended;
+    sub w uni0308 by wdieresis;
+    sub w uni030A by uni1E98.extended;
+    sub x uni0307 by uni1E8B.extended;
+    sub x uni0308 by uni1E8D.extended;
+    sub y acutecomb by yacute;
+    sub y dotbelowcomb by uni1EF5;
+    sub y gravecomb by ygrave;
+    sub y hookabovecomb by uni1EF7;
+    sub y tildecomb by uni1EF9;
+    sub y uni0302 by ycircumflex;
+    sub y uni0304 by uni0233.extended;
+    sub y uni0307 by uni1E8F.extended;
+    sub y uni0308 by ydieresis;
+    sub y uni030A by uni1E99.extended;
+    sub z acutecomb by zacute;
+    sub z dotbelowcomb by uni1E93.extended;
+    sub z uni0302 by uni1E91.extended;
+    sub z uni0307 by zdotaccent;
+    sub z uni030C by zcaron;
+    sub uni0168 acutecomb by uni1E78.extended;
+    sub uni0169 acutecomb by uni1E79.extended;
+    sub uni01A0 acutecomb by uni1EDA;
+    sub uni01A0 dotbelowcomb by uni1EE2;
+    sub uni01A0 gravecomb by uni1EDC;
+    sub uni01A0 hookabovecomb by uni1EDE;
+    sub uni01A0 tildecomb by uni1EE0;
+    sub uni01A1 acutecomb by uni1EDB;
+    sub uni01A1 dotbelowcomb by uni1EE3;
+    sub uni01A1 gravecomb by uni1EDD;
+    sub uni01A1 hookabovecomb by uni1EDF;
+    sub uni01A1 tildecomb by uni1EE1;
+    sub uni01AF acutecomb by uni1EE8;
+    sub uni01AF dotbelowcomb by uni1EF0;
+    sub uni01AF gravecomb by uni1EEA;
+    sub uni01AF hookabovecomb by uni1EEC;
+    sub uni01AF tildecomb by uni1EEE;
+    sub uni01B0 acutecomb by uni1EE9;
+    sub uni01B0 dotbelowcomb by uni1EF1;
+    sub uni01B0 gravecomb by uni1EEB;
+    sub uni01B0 hookabovecomb by uni1EED;
+    sub uni01B0 tildecomb by uni1EEF;
+    sub uni1EA0 uni0302 by uni1EAC;
+    sub uni1EA0 uni0306 by uni1EB6;
+    sub uni1EA1 uni0302 by uni1EAD;
+    sub uni1EA1 uni0306 by uni1EB7;
+    sub uni1EB8 uni0302 by uni1EC6;
+    sub uni1EB9 uni0302 by uni1EC7;
+    sub uni1ECC uni0302 by uni1ED8;
+    sub uni1ECD uni0302 by uni1ED9;
+    sub uni01EA.extended uni0304 by uni01EC.extended;
+    sub uni01EB.extended uni0304 by uni01ED.extended;
+    sub uni0226.extended uni0304 by uni01E0.extended;
+    sub uni0227.extended uni0304 by uni01E1.extended;
+    sub uni0228.extended uni0306 by uni1E1C.extended;
+    sub uni0229.extended uni0306 by uni1E1D.extended;
+    sub uni022E.extended uni0304 by uni0230.extended;
+    sub uni022F.extended uni0304 by uni0231.extended;
+    sub uni1E36.extended uni0304 by uni1E38.extended;
+    sub uni1E37.extended uni0304 by uni1E39.extended;
+    sub uni1E5A.extended uni0304 by uni1E5C.extended;
+    sub uni1E5B.extended uni0304 by uni1E5D.extended;
+    sub uni1E62.extended uni0307 by uni1E68.extended;
+    sub uni1E63.extended uni0307 by uni1E69.extended;
+} LigatureSubstitution1;
+
+lookup SingleSubstitution2 {
+    lookupflag 0;
+    ;
+    # Original source: 1 
+    sub zero by zero.tnum;
+    sub one by one.tnum;
+    sub two by two.tnum;
+    sub three by three.tnum;
+    sub four by four.tnum;
+    sub five by five.tnum;
+    sub six by six.tnum;
+    sub seven by seven.tnum;
+    sub eight by eight.tnum;
+    sub nine by nine.tnum;
+} SingleSubstitution2;
+
+lookup MarkToBase1 {
+    lookupflag 0;
+    ;
+            pos base [A Aogonek uni1EA0]
+            <anchor 410 719> mark @Anchor2__Anchor2;
+        pos base [Aacute uni01CD Acircumflex Agrave Aring uni1EA2 uni1EAC]
+            <anchor 439 906> mark @Anchor2__Anchor2;
+        pos base [Abreve uni1EB6]
+            <anchor 436 883> mark @Anchor2__Anchor2;
+        pos base Adieresis
+            <anchor 427 825> mark @Anchor2__Anchor2;
+        pos base Amacron
+            <anchor 425 815> mark @Anchor2__Anchor2;
+        pos base Atilde
+            <anchor 429 839> mark @Anchor2__Anchor2;
+        pos base AE
+            <anchor 512 719> mark @Anchor2__Anchor2;
+        pos base [B uni1E04.extended]
+            <anchor 357 715> mark @Anchor2__Anchor2;
+        pos base [C Ccedilla G uni0122]
+            <anchor 418 728> mark @Anchor2__Anchor2;
+        pos base [Cacute Ccaron uni0108.extended uni011C.extended uni01E6.extended uni01F4.extended uni1E08.extended]
+            <anchor 448 915> mark @Anchor2__Anchor2;
+        pos base [Cdotaccent Gdotaccent]
+            <anchor 436 840> mark @Anchor2__Anchor2;
+        pos base [D uni1E0C.extended uni1E10.extended]
+            <anchor 400 718> mark @Anchor2__Anchor2;
+        pos base Eth
+            <anchor 411 725> mark @Anchor2__Anchor2;
+        pos base Dcaron
+            <anchor 429 905> mark @Anchor2__Anchor2;
+        pos base Dcroat
+            <anchor 396 718> mark @Anchor2__Anchor2;
+        pos base [E Eogonek uni1EB8 uni0228.extended]
+            <anchor 363 712> mark @Anchor2__Anchor2;
+        pos base [Eacute Ecaron Ecircumflex Egrave uni1EBA uni1EC6]
+            <anchor 392 899> mark @Anchor2__Anchor2;
+        pos base Edieresis
+            <anchor 380 818> mark @Anchor2__Anchor2;
+        pos base Edotaccent
+            <anchor 381 824> mark @Anchor2__Anchor2;
+        pos base Emacron
+            <anchor 378 808> mark @Anchor2__Anchor2;
+        pos base [F uni01D6.extended uni1E7B.extended]
+            <anchor 356 712> mark @Anchor2__Anchor2;
+        pos base Gbreve
+            <anchor 444 892> mark @Anchor2__Anchor2;
+        pos base [H uni1E24.extended uni1E28.extended]
+            <anchor 386 700> mark @Anchor2__Anchor2;
+        pos base Hbar
+            <anchor 381 700> mark @Anchor2__Anchor2;
+        pos base [I Iogonek uni1ECA]
+            <anchor 243 712> mark @Anchor2__Anchor2;
+        pos base IJ
+            <anchor 405 725> mark @Anchor2__Anchor2;
+        pos base [Iacute Icircumflex Igrave uni1EC8 uni01CF.extended]
+            <anchor 272 899> mark @Anchor2__Anchor2;
+        pos base Idieresis
+            <anchor 260 818> mark @Anchor2__Anchor2;
+        pos base Idotaccent
+            <anchor 261 824> mark @Anchor2__Anchor2;
+        pos base Imacron
+            <anchor 258 808> mark @Anchor2__Anchor2;
+        pos base J
+            <anchor 341 700> mark @Anchor2__Anchor2;
+        pos base [K uni0136 uni1E32.extended]
+            <anchor 396 720> mark @Anchor2__Anchor2;
+        pos base [L uni013B uni1E36.extended]
+            <anchor 352 700> mark @Anchor2__Anchor2;
+        pos base Lacute
+            <anchor 381 887> mark @Anchor2__Anchor2;
+        pos base Lcaron
+            <anchor 407 700> mark @Anchor2__Anchor2;
+        pos base Lslash
+            <anchor 342 700> mark @Anchor2__Anchor2;
+        pos base [M uni1E42.extended]
+            <anchor 460 704> mark @Anchor2__Anchor2;
+        pos base [N uni0145 U Uogonek uni1EE4 uni1E46.extended]
+            <anchor 399 700> mark @Anchor2__Anchor2;
+        pos base [Nacute Ncaron Uacute Ucircumflex Ugrave Uhungarumlaut Uring uni1EE6 uni01D3.extended uni01F8.extended]
+            <anchor 428 887> mark @Anchor2__Anchor2;
+        pos base [Ntilde uni0168]
+            <anchor 418 820> mark @Anchor2__Anchor2;
+        pos base Eng
+            <anchor 428 725> mark @Anchor2__Anchor2;
+        pos base [O uni1ECC uni01EA.extended]
+            <anchor 412 720> mark @Anchor2__Anchor2;
+        pos base [Oacute Ocircumflex Ograve Ohungarumlaut uni1ECE uni1ED8 uni01D1.extended]
+            <anchor 442 907> mark @Anchor2__Anchor2;
+        pos base Odieresis
+            <anchor 429 826> mark @Anchor2__Anchor2;
+        pos base [Omacron uni01EC.extended]
+            <anchor 427 816> mark @Anchor2__Anchor2;
+        pos base Oslash
+            <anchor 417 750> mark @Anchor2__Anchor2;
+        pos base Otilde
+            <anchor 431 840> mark @Anchor2__Anchor2;
+        pos base OE
+            <anchor 514 720> mark @Anchor2__Anchor2;
+        pos base P
+            <anchor 336 715> mark @Anchor2__Anchor2;
+        pos base Thorn
+            <anchor 337 720> mark @Anchor2__Anchor2;
+        pos base Q
+            <anchor 427 720> mark @Anchor2__Anchor2;
+        pos base [R uni0156 uni1E5A.extended]
+            <anchor 384 715> mark @Anchor2__Anchor2;
+        pos base [Racute Rcaron]
+            <anchor 414 902> mark @Anchor2__Anchor2;
+        pos base [S Scedilla uni0218 uni1E62.extended]
+            <anchor 405 734> mark @Anchor2__Anchor2;
+        pos base [Sacute Scaron uni015C.extended]
+            <anchor 435 921> mark @Anchor2__Anchor2;
+        pos base uni1E9E
+            <anchor 417 735> mark @Anchor2__Anchor2;
+        pos base [T uni021A uni0162.extended uni1E6C.extended]
+            <anchor 397 711> mark @Anchor2__Anchor2;
+        pos base Tcaron
+            <anchor 426 898> mark @Anchor2__Anchor2;
+        pos base Ubreve
+            <anchor 425 864> mark @Anchor2__Anchor2;
+        pos base Udieresis
+            <anchor 416 806> mark @Anchor2__Anchor2;
+        pos base Umacron
+            <anchor 414 796> mark @Anchor2__Anchor2;
+        pos base [V uni1E7E.extended]
+            <anchor 408 709> mark @Anchor2__Anchor2;
+        pos base [W uni1E88.extended]
+            <anchor 514 706> mark @Anchor2__Anchor2;
+        pos base [Wacute Wcircumflex Wgrave]
+            <anchor 543 893> mark @Anchor2__Anchor2;
+        pos base Wdieresis
+            <anchor 531 812> mark @Anchor2__Anchor2;
+        pos base X
+            <anchor 399 715> mark @Anchor2__Anchor2;
+        pos base [Y uni1EF4]
+            <anchor 406 716> mark @Anchor2__Anchor2;
+        pos base [Yacute Ycircumflex Ygrave uni1EF6]
+            <anchor 436 903> mark @Anchor2__Anchor2;
+        pos base Ydieresis
+            <anchor 423 822> mark @Anchor2__Anchor2;
+        pos base [Z uni1E92.extended]
+            <anchor 407 712> mark @Anchor2__Anchor2;
+        pos base [Zacute Zcaron uni1E90.extended]
+            <anchor 436 899> mark @Anchor2__Anchor2;
+        pos base Zdotaccent
+            <anchor 425 824> mark @Anchor2__Anchor2;
+        pos base [a aogonek uni1EA1]
+            <anchor 346 557> mark @Anchor2__Anchor2;
+        pos base [aacute uni01CE acircumflex agrave aring uni1EA3 uni1EAD]
+            <anchor 376 744> mark @Anchor2__Anchor2;
+        pos base [abreve uni1EB7]
+            <anchor 372 721> mark @Anchor2__Anchor2;
+        pos base adieresis
+            <anchor 363 663> mark @Anchor2__Anchor2;
+        pos base amacron
+            <anchor 361 653> mark @Anchor2__Anchor2;
+        pos base atilde
+            <anchor 365 677> mark @Anchor2__Anchor2;
+        pos base ae
+            <anchor 458 557> mark @Anchor2__Anchor2;
+        pos base [b d thorn uni1E05.extended uni1E0D.extended uni1E11.extended]
+            <anchor 360 720> mark @Anchor2__Anchor2;
+        pos base [c ccedilla]
+            <anchor 338 543> mark @Anchor2__Anchor2;
+        pos base [cacute ccaron uni0109.extended uni1E09.extended]
+            <anchor 368 730> mark @Anchor2__Anchor2;
+        pos base cdotaccent
+            <anchor 356 655> mark @Anchor2__Anchor2;
+        pos base eth
+            <anchor 353 756> mark @Anchor2__Anchor2;
+        pos base dcaron
+            <anchor 414 720> mark @Anchor2__Anchor2;
+        pos base dcroat
+            <anchor 354 720> mark @Anchor2__Anchor2;
+        pos base [e eogonek uni1EB9 uni0229.extended]
+            <anchor 337 533> mark @Anchor2__Anchor2;
+        pos base [eacute ecaron ecircumflex egrave uni1EBB uni1EC7]
+            <anchor 367 720> mark @Anchor2__Anchor2;
+        pos base edieresis
+            <anchor 354 639> mark @Anchor2__Anchor2;
+        pos base edotaccent
+            <anchor 355 645> mark @Anchor2__Anchor2;
+        pos base emacron
+            <anchor 353 629> mark @Anchor2__Anchor2;
+        pos base f
+            <anchor 334 772> mark @Anchor2__Anchor2;
+        pos base [g uni0123]
+            <anchor 327 532> mark @Anchor2__Anchor2;
+        pos base gbreve
+            <anchor 353 696> mark @Anchor2__Anchor2;
+        pos base gdotaccent
+            <anchor 345 644> mark @Anchor2__Anchor2;
+        pos base [h uni1E25.extended uni1E29.extended]
+            <anchor 357 720> mark @Anchor2__Anchor2;
+        pos base hbar
+            <anchor 352 720> mark @Anchor2__Anchor2;
+        pos base [i iogonek uni1ECB]
+            <anchor 188 712> mark @Anchor2__Anchor2;
+        pos base dotlessi
+            <anchor 157 520> mark @Anchor2__Anchor2;
+        pos base [iacute icircumflex igrave uni1EC9 uni01D0.extended]
+            <anchor 187 707> mark @Anchor2__Anchor2;
+        pos base idieresis
+            <anchor 174 626> mark @Anchor2__Anchor2;
+        pos base ij
+            <anchor 345 715> mark @Anchor2__Anchor2;
+        pos base imacron
+            <anchor 173 616> mark @Anchor2__Anchor2;
+        pos base j
+            <anchor 269 712> mark @Anchor2__Anchor2;
+        pos base uni0237
+            <anchor 238 520> mark @Anchor2__Anchor2;
+        pos base [k uni0137 uni1E33.extended]
+            <anchor 362 720> mark @Anchor2__Anchor2;
+        pos base [l uni1E37.extended]
+            <anchor 233 720> mark @Anchor2__Anchor2;
+        pos base lacute
+            <anchor 263 907> mark @Anchor2__Anchor2;
+        pos base lcaron
+            <anchor 288 720> mark @Anchor2__Anchor2;
+        pos base uni013C
+            <anchor 234 720> mark @Anchor2__Anchor2;
+        pos base lslash
+            <anchor 238 720> mark @Anchor2__Anchor2;
+        pos base [m uni1E43.extended]
+            <anchor 439 548> mark @Anchor2__Anchor2;
+        pos base [n uni0146 uni1E47.extended]
+            <anchor 330 547> mark @Anchor2__Anchor2;
+        pos base [nacute ncaron uni01F9.extended]
+            <anchor 359 734> mark @Anchor2__Anchor2;
+        pos base ntilde
+            <anchor 349 667> mark @Anchor2__Anchor2;
+        pos base eng
+            <anchor 322 521> mark @Anchor2__Anchor2;
+        pos base [o uni1ECD uni01EB.extended]
+            <anchor 337 534> mark @Anchor2__Anchor2;
+        pos base [oacute ocircumflex ograve ohungarumlaut uni1ECF uni1ED9 uni01D2.extended]
+            <anchor 366 721> mark @Anchor2__Anchor2;
+        pos base odieresis
+            <anchor 353 640> mark @Anchor2__Anchor2;
+        pos base [omacron uni01ED.extended]
+            <anchor 352 630> mark @Anchor2__Anchor2;
+        pos base oslash
+            <anchor 341 564> mark @Anchor2__Anchor2;
+        pos base otilde
+            <anchor 356 654> mark @Anchor2__Anchor2;
+        pos base oe
+            <anchor 450 534> mark @Anchor2__Anchor2;
+        pos base [p q]
+            <anchor 331 534> mark @Anchor2__Anchor2;
+        pos base [r uni0157 uni1E5B.extended]
+            <anchor 284 558> mark @Anchor2__Anchor2;
+        pos base [racute rcaron]
+            <anchor 314 745> mark @Anchor2__Anchor2;
+        pos base [s scedilla uni0219 uni1E63.extended]
+            <anchor 328 555> mark @Anchor2__Anchor2;
+        pos base [sacute scaron uni015D.extended]
+            <anchor 358 742> mark @Anchor2__Anchor2;
+        pos base germandbls
+            <anchor 379 753> mark @Anchor2__Anchor2;
+        pos base [t uni021B uni0163.extended uni1E6D.extended]
+            <anchor 307 675> mark @Anchor2__Anchor2;
+        pos base tcaron
+            <anchor 362 675> mark @Anchor2__Anchor2;
+        pos base [u uogonek uni1EE5]
+            <anchor 325 520> mark @Anchor2__Anchor2;
+        pos base [uacute ucircumflex ugrave uhungarumlaut uring uni1EE7 uni01D4.extended]
+            <anchor 355 707> mark @Anchor2__Anchor2;
+        pos base ubreve
+            <anchor 351 684> mark @Anchor2__Anchor2;
+        pos base udieresis
+            <anchor 342 626> mark @Anchor2__Anchor2;
+        pos base umacron
+            <anchor 341 616> mark @Anchor2__Anchor2;
+        pos base [v uni1E7F.extended]
+            <anchor 348 530> mark @Anchor2__Anchor2;
+        pos base [w uni1E89.extended]
+            <anchor 454 528> mark @Anchor2__Anchor2;
+        pos base [wacute wcircumflex wgrave uni1E98.extended]
+            <anchor 483 715> mark @Anchor2__Anchor2;
+        pos base wdieresis
+            <anchor 470 634> mark @Anchor2__Anchor2;
+        pos base x
+            <anchor 339 537> mark @Anchor2__Anchor2;
+        pos base [y uni1EF5]
+            <anchor 355 531> mark @Anchor2__Anchor2;
+        pos base [yacute ycircumflex ygrave uni1EF7 uni1E99.extended]
+            <anchor 385 718> mark @Anchor2__Anchor2;
+        pos base ydieresis
+            <anchor 372 637> mark @Anchor2__Anchor2;
+        pos base [z uni1E93.extended]
+            <anchor 339 532> mark @Anchor2__Anchor2;
+        pos base [zacute zcaron uni1E91.extended]
+            <anchor 369 719> mark @Anchor2__Anchor2;
+        pos base zdotaccent
+            <anchor 357 644> mark @Anchor2__Anchor2;
+        pos base uni0128
+            <anchor 262 832> mark @Anchor2__Anchor2;
+        pos base uni0129
+            <anchor 176 640> mark @Anchor2__Anchor2;
+        pos base uni0169
+            <anchor 344 640> mark @Anchor2__Anchor2;
+        pos base [uni01A0 uni1EE2]
+            <anchor 468 787> mark @Anchor2__Anchor2;
+        pos base [uni01A1 uni1EE3]
+            <anchor 393 601> mark @Anchor2__Anchor2;
+        pos base [uni01AF uni1EF0]
+            <anchor 455 767> mark @Anchor2__Anchor2;
+        pos base [uni01B0 uni1EF1]
+            <anchor 381 587> mark @Anchor2__Anchor2;
+        pos base uni1EBC
+            <anchor 382 832> mark @Anchor2__Anchor2;
+        pos base uni1EBD
+            <anchor 356 653> mark @Anchor2__Anchor2;
+        pos base uni1EF8
+            <anchor 425 836> mark @Anchor2__Anchor2;
+        pos base uni1EF9
+            <anchor 374 651> mark @Anchor2__Anchor2;
+        pos base [uni1EA4 uni1EA6 uni1EA8 uni01FA.extended]
+            <anchor 464 1058> mark @Anchor2__Anchor2;
+        pos base [uni1EA5 uni1EA7 uni1EA9 uni01FB.extended]
+            <anchor 400 896> mark @Anchor2__Anchor2;
+        pos base uni1EAA
+            <anchor 457 1016> mark @Anchor2__Anchor2;
+        pos base uni1EAB
+            <anchor 393 854> mark @Anchor2__Anchor2;
+        pos base [uni1EAE uni1EB0 uni1EB2]
+            <anchor 460 1035> mark @Anchor2__Anchor2;
+        pos base [uni1EAF uni1EB1 uni1EB3]
+            <anchor 396 873> mark @Anchor2__Anchor2;
+        pos base uni1EB4
+            <anchor 453 993> mark @Anchor2__Anchor2;
+        pos base uni1EB5
+            <anchor 390 831> mark @Anchor2__Anchor2;
+        pos base [uni1EBE uni1EC0 uni1EC2]
+            <anchor 416 1051> mark @Anchor2__Anchor2;
+        pos base [uni1EBF uni1EC1]
+            <anchor 391 872> mark @Anchor2__Anchor2;
+        pos base uni1EC3
+            <anchor 391 873> mark @Anchor2__Anchor2;
+        pos base uni1EC4
+            <anchor 410 1009> mark @Anchor2__Anchor2;
+        pos base uni1EC5
+            <anchor 384 830> mark @Anchor2__Anchor2;
+        pos base [uni1ED0 uni1ED2 uni1ED4]
+            <anchor 466 1059> mark @Anchor2__Anchor2;
+        pos base [uni1ED1 uni1ED3 uni1ED5]
+            <anchor 390 873> mark @Anchor2__Anchor2;
+        pos base uni1ED6
+            <anchor 459 1017> mark @Anchor2__Anchor2;
+        pos base uni1ED7
+            <anchor 384 831> mark @Anchor2__Anchor2;
+        pos base [uni1EDA uni1EDC uni1EDE]
+            <anchor 497 974> mark @Anchor2__Anchor2;
+        pos base [uni1EDB uni1EDD uni1EDF]
+            <anchor 423 788> mark @Anchor2__Anchor2;
+        pos base uni1EE0
+            <anchor 487 907> mark @Anchor2__Anchor2;
+        pos base uni1EE1
+            <anchor 412 721> mark @Anchor2__Anchor2;
+        pos base [uni1EE8 uni1EEA uni1EEC]
+            <anchor 485 954> mark @Anchor2__Anchor2;
+        pos base [uni1EE9 uni1EEB uni1EED]
+            <anchor 411 774> mark @Anchor2__Anchor2;
+        pos base uni1EEE
+            <anchor 474 887> mark @Anchor2__Anchor2;
+        pos base uni1EEF
+            <anchor 400 707> mark @Anchor2__Anchor2;
+        pos base [uni0114.extended uni1E1C.extended]
+            <anchor 389 876> mark @Anchor2__Anchor2;
+        pos base [uni0115.extended uni1E1D.extended]
+            <anchor 363 697> mark @Anchor2__Anchor2;
+        pos base [uni011D.extended uni01E7.extended uni01F5.extended]
+            <anchor 357 719> mark @Anchor2__Anchor2;
+        pos base [uni0124.extended uni021E.extended]
+            <anchor 415 887> mark @Anchor2__Anchor2;
+        pos base [uni0125.extended uni021F.extended]
+            <anchor 387 907> mark @Anchor2__Anchor2;
+        pos base uni012C.extended
+            <anchor 269 876> mark @Anchor2__Anchor2;
+        pos base uni012D.extended
+            <anchor 183 684> mark @Anchor2__Anchor2;
+        pos base uni0134.extended
+            <anchor 370 887> mark @Anchor2__Anchor2;
+        pos base [uni0135.extended uni01F0.extended]
+            <anchor 299 707> mark @Anchor2__Anchor2;
+        pos base uni014E.extended
+            <anchor 438 884> mark @Anchor2__Anchor2;
+        pos base uni014F.extended
+            <anchor 363 698> mark @Anchor2__Anchor2;
+        pos base [uni01D5.extended uni1E7A.extended]
+            <anchor 429 892> mark @Anchor2__Anchor2;
+        pos base [uni01D7.extended uni01D9.extended uni01DB.extended]
+            <anchor 440 958> mark @Anchor2__Anchor2;
+        pos base [uni01D8.extended uni01DA.extended uni01DC.extended]
+            <anchor 366 778> mark @Anchor2__Anchor2;
+        pos base uni01DE.extended
+            <anchor 440 911> mark @Anchor2__Anchor2;
+        pos base uni01DF.extended
+            <anchor 377 749> mark @Anchor2__Anchor2;
+        pos base uni01E0.extended
+            <anchor 441 917> mark @Anchor2__Anchor2;
+        pos base uni01E1.extended
+            <anchor 378 755> mark @Anchor2__Anchor2;
+        pos base uni01E2.extended
+            <anchor 527 815> mark @Anchor2__Anchor2;
+        pos base uni01E3.extended
+            <anchor 473 653> mark @Anchor2__Anchor2;
+        pos base [uni01E8.extended uni1E30.extended]
+            <anchor 426 907> mark @Anchor2__Anchor2;
+        pos base [uni01E9.extended uni1E31.extended]
+            <anchor 392 907> mark @Anchor2__Anchor2;
+        pos base uni01FC.extended
+            <anchor 541 906> mark @Anchor2__Anchor2;
+        pos base uni01FD.extended
+            <anchor 488 744> mark @Anchor2__Anchor2;
+        pos base uni01FE.extended
+            <anchor 446 937> mark @Anchor2__Anchor2;
+        pos base uni01FF.extended
+            <anchor 371 751> mark @Anchor2__Anchor2;
+        pos base uni0226.extended
+            <anchor 428 831> mark @Anchor2__Anchor2;
+        pos base uni0227.extended
+            <anchor 364 669> mark @Anchor2__Anchor2;
+        pos base uni022A.extended
+            <anchor 442 912> mark @Anchor2__Anchor2;
+        pos base uni022B.extended
+            <anchor 367 726> mark @Anchor2__Anchor2;
+        pos base uni022C.extended
+            <anchor 445 926> mark @Anchor2__Anchor2;
+        pos base uni022D.extended
+            <anchor 369 740> mark @Anchor2__Anchor2;
+        pos base uni022E.extended
+            <anchor 430 832> mark @Anchor2__Anchor2;
+        pos base uni022F.extended
+            <anchor 354 646> mark @Anchor2__Anchor2;
+        pos base uni0230.extended
+            <anchor 443 918> mark @Anchor2__Anchor2;
+        pos base uni0231.extended
+            <anchor 368 732> mark @Anchor2__Anchor2;
+        pos base uni0232.extended
+            <anchor 422 812> mark @Anchor2__Anchor2;
+        pos base uni0233.extended
+            <anchor 370 627> mark @Anchor2__Anchor2;
+        pos base uni1E02.extended
+            <anchor 375 827> mark @Anchor2__Anchor2;
+        pos base [uni1E03.extended uni1E0B.extended]
+            <anchor 378 832> mark @Anchor2__Anchor2;
+        pos base uni1E0A.extended
+            <anchor 417 830> mark @Anchor2__Anchor2;
+        pos base [uni1E14.extended uni1E16.extended]
+            <anchor 402 960> mark @Anchor2__Anchor2;
+        pos base [uni1E15.extended uni1E17.extended]
+            <anchor 377 781> mark @Anchor2__Anchor2;
+        pos base uni1E1E.extended
+            <anchor 374 824> mark @Anchor2__Anchor2;
+        pos base uni1E1F.extended
+            <anchor 352 884> mark @Anchor2__Anchor2;
+        pos base uni1E20.extended
+            <anchor 434 824> mark @Anchor2__Anchor2;
+        pos base uni1E21.extended
+            <anchor 342 628> mark @Anchor2__Anchor2;
+        pos base uni1E22.extended
+            <anchor 404 812> mark @Anchor2__Anchor2;
+        pos base uni1E23.extended
+            <anchor 375 832> mark @Anchor2__Anchor2;
+        pos base uni1E26.extended
+            <anchor 403 806> mark @Anchor2__Anchor2;
+        pos base uni1E27.extended
+            <anchor 374 826> mark @Anchor2__Anchor2;
+        pos base uni1E2E.extended
+            <anchor 284 970> mark @Anchor2__Anchor2;
+        pos base uni1E2F.extended
+            <anchor 198 778> mark @Anchor2__Anchor2;
+        pos base uni1E38.extended
+            <anchor 367 796> mark @Anchor2__Anchor2;
+        pos base uni1E39.extended
+            <anchor 248 816> mark @Anchor2__Anchor2;
+        pos base uni1E3E.extended
+            <anchor 489 891> mark @Anchor2__Anchor2;
+        pos base uni1E3F.extended
+            <anchor 468 735> mark @Anchor2__Anchor2;
+        pos base uni1E40.extended
+            <anchor 477 816> mark @Anchor2__Anchor2;
+        pos base uni1E41.extended
+            <anchor 457 660> mark @Anchor2__Anchor2;
+        pos base uni1E44.extended
+            <anchor 417 812> mark @Anchor2__Anchor2;
+        pos base uni1E45.extended
+            <anchor 347 659> mark @Anchor2__Anchor2;
+        pos base uni1E4C.extended
+            <anchor 455 992> mark @Anchor2__Anchor2;
+        pos base uni1E4D.extended
+            <anchor 380 806> mark @Anchor2__Anchor2;
+        pos base uni1E4E.extended
+            <anchor 446 936> mark @Anchor2__Anchor2;
+        pos base uni1E4F.extended
+            <anchor 371 750> mark @Anchor2__Anchor2;
+        pos base [uni1E50.extended uni1E52.extended]
+            <anchor 451 968> mark @Anchor2__Anchor2;
+        pos base [uni1E51.extended uni1E53.extended]
+            <anchor 376 782> mark @Anchor2__Anchor2;
+        pos base uni1E54.extended
+            <anchor 366 902> mark @Anchor2__Anchor2;
+        pos base uni1E55.extended
+            <anchor 360 721> mark @Anchor2__Anchor2;
+        pos base uni1E56.extended
+            <anchor 354 827> mark @Anchor2__Anchor2;
+        pos base uni1E57.extended
+            <anchor 348 646> mark @Anchor2__Anchor2;
+        pos base uni1E58.extended
+            <anchor 402 827> mark @Anchor2__Anchor2;
+        pos base uni1E59.extended
+            <anchor 302 670> mark @Anchor2__Anchor2;
+        pos base uni1E5C.extended
+            <anchor 399 811> mark @Anchor2__Anchor2;
+        pos base uni1E5D.extended
+            <anchor 300 654> mark @Anchor2__Anchor2;
+        pos base [uni1E60.extended uni1E68.extended]
+            <anchor 423 846> mark @Anchor2__Anchor2;
+        pos base [uni1E61.extended uni1E69.extended]
+            <anchor 346 667> mark @Anchor2__Anchor2;
+        pos base [uni1E64.extended uni1E66.extended]
+            <anchor 451 1023> mark @Anchor2__Anchor2;
+        pos base [uni1E65.extended uni1E67.extended]
+            <anchor 374 844> mark @Anchor2__Anchor2;
+        pos base uni1E6A.extended
+            <anchor 414 823> mark @Anchor2__Anchor2;
+        pos base uni1E6B.extended
+            <anchor 325 787> mark @Anchor2__Anchor2;
+        pos base uni1E78.extended
+            <anchor 442 972> mark @Anchor2__Anchor2;
+        pos base uni1E79.extended
+            <anchor 368 792> mark @Anchor2__Anchor2;
+        pos base uni1E7C.extended
+            <anchor 427 829> mark @Anchor2__Anchor2;
+        pos base uni1E7D.extended
+            <anchor 367 650> mark @Anchor2__Anchor2;
+        pos base uni1E86.extended
+            <anchor 532 818> mark @Anchor2__Anchor2;
+        pos base uni1E87.extended
+            <anchor 471 640> mark @Anchor2__Anchor2;
+        pos base uni1E8A.extended
+            <anchor 417 827> mark @Anchor2__Anchor2;
+        pos base uni1E8B.extended
+            <anchor 357 649> mark @Anchor2__Anchor2;
+        pos base uni1E8C.extended
+            <anchor 416 821> mark @Anchor2__Anchor2;
+        pos base uni1E8D.extended
+            <anchor 356 643> mark @Anchor2__Anchor2;
+        pos base uni1E8E.extended
+            <anchor 424 828> mark @Anchor2__Anchor2;
+        pos base uni1E8F.extended
+            <anchor 373 643> mark @Anchor2__Anchor2;
+        pos base uni1E97.extended
+            <anchor 324 781> mark @Anchor2__Anchor2;
+
+            pos base [A Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aring Atilde uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAE uni1EB0 uni1EB2 uni1EB4 uni01DE.extended uni01E0.extended uni01FA.extended uni0226.extended]
+            <anchor 295 -9> mark @Anchor3__Anchor3;
+        pos base Aogonek
+            <anchor 259 -231> mark @Anchor3__Anchor3;
+        pos base [AE uni01E2.extended uni01FC.extended]
+            <anchor 396 -12> mark @Anchor3__Anchor3;
+        pos base [B uni1E02.extended]
+            <anchor 242 -15> mark @Anchor3__Anchor3;
+        pos base [C Cacute Ccaron Cdotaccent G Gbreve Gdotaccent uni0108.extended uni011C.extended uni01E6.extended uni01F4.extended uni1E20.extended]
+            <anchor 299 -25> mark @Anchor3__Anchor3;
+        pos base [Ccedilla uni0122 uni1E08.extended]
+            <anchor 264 -248> mark @Anchor3__Anchor3;
+        pos base [D Dcaron uni1E0A.extended]
+            <anchor 283 -18> mark @Anchor3__Anchor3;
+        pos base Eth
+            <anchor 295 -5> mark @Anchor3__Anchor3;
+        pos base Dcroat
+            <anchor 279 -18> mark @Anchor3__Anchor3;
+        pos base [E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni0114.extended uni1E14.extended uni1E16.extended]
+            <anchor 248 -12> mark @Anchor3__Anchor3;
+        pos base Eogonek
+            <anchor 213 -234> mark @Anchor3__Anchor3;
+        pos base [F h n nacute ncaron ntilde uni0125.extended uni01F9.extended uni021F.extended uni1E1E.extended uni1E23.extended uni1E27.extended uni1E45.extended]
+            <anchor 243 0> mark @Anchor3__Anchor3;
+        pos base [H uni0124.extended uni021E.extended uni1E22.extended uni1E26.extended]
+            <anchor 275 0> mark @Anchor3__Anchor3;
+        pos base Hbar
+            <anchor 270 0> mark @Anchor3__Anchor3;
+        pos base [I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron uni0128 uni1EC8 uni012C.extended uni01CF.extended uni1E2E.extended]
+            <anchor 128 -12> mark @Anchor3__Anchor3;
+        pos base IJ
+            <anchor 255 -220> mark @Anchor3__Anchor3;
+        pos base Iogonek
+            <anchor 93 -234> mark @Anchor3__Anchor3;
+        pos base [J uni0134.extended]
+            <anchor 224 -38> mark @Anchor3__Anchor3;
+        pos base [K uni01E8.extended uni1E30.extended]
+            <anchor 280 -14> mark @Anchor3__Anchor3;
+        pos base uni0136
+            <anchor 244 -237> mark @Anchor3__Anchor3;
+        pos base [L Lacute]
+            <anchor 239 -12> mark @Anchor3__Anchor3;
+        pos base Lcaron
+            <anchor 294 -12> mark @Anchor3__Anchor3;
+        pos base uni013B
+            <anchor 204 -235> mark @Anchor3__Anchor3;
+        pos base Lslash
+            <anchor 229 -12> mark @Anchor3__Anchor3;
+        pos base [M uni1E3E.extended uni1E40.extended]
+            <anchor 348 0> mark @Anchor3__Anchor3;
+        pos base [N Nacute Ncaron Ntilde uni01F8.extended uni1E44.extended]
+            <anchor 288 0> mark @Anchor3__Anchor3;
+        pos base uni0145
+            <anchor 253 -223> mark @Anchor3__Anchor3;
+        pos base Eng
+            <anchor 278 -220> mark @Anchor3__Anchor3;
+        pos base [O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni014E.extended uni01D1.extended uni022A.extended uni022C.extended uni022E.extended uni0230.extended uni1E4C.extended uni1E4E.extended uni1E50.extended uni1E52.extended]
+            <anchor 295 -20> mark @Anchor3__Anchor3;
+        pos base [Oslash uni01FE.extended]
+            <anchor 290 -50> mark @Anchor3__Anchor3;
+        pos base OE
+            <anchor 397 -20> mark @Anchor3__Anchor3;
+        pos base [P Thorn uni1E54.extended uni1E56.extended]
+            <anchor 223 0> mark @Anchor3__Anchor3;
+        pos base Q
+            <anchor 294 -123> mark @Anchor3__Anchor3;
+        pos base [R Racute Rcaron uni1E58.extended]
+            <anchor 269 -13> mark @Anchor3__Anchor3;
+        pos base uni0156
+            <anchor 234 -236> mark @Anchor3__Anchor3;
+        pos base [S Sacute Scaron uni015C.extended uni1E60.extended uni1E64.extended uni1E66.extended]
+            <anchor 284 -34> mark @Anchor3__Anchor3;
+        pos base Scedilla
+            <anchor 248 -257> mark @Anchor3__Anchor3;
+        pos base uni0218
+            <anchor 237 -331> mark @Anchor3__Anchor3;
+        pos base uni1E9E
+            <anchor 299 -14> mark @Anchor3__Anchor3;
+        pos base [T Tcaron uni1E6A.extended]
+            <anchor 284 0> mark @Anchor3__Anchor3;
+        pos base uni021A
+            <anchor 237 -297> mark @Anchor3__Anchor3;
+        pos base [U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uring uni0168 uni1EE6 uni01D3.extended uni01D5.extended uni01D7.extended uni01D9.extended uni01DB.extended uni1E78.extended uni1E7A.extended]
+            <anchor 284 -26> mark @Anchor3__Anchor3;
+        pos base Uogonek
+            <anchor 249 -248> mark @Anchor3__Anchor3;
+        pos base [V uni1E7C.extended]
+            <anchor 293 -21> mark @Anchor3__Anchor3;
+        pos base [W Wacute Wcircumflex Wdieresis Wgrave uni1E86.extended]
+            <anchor 400 -11> mark @Anchor3__Anchor3;
+        pos base [X uni1E8A.extended uni1E8C.extended]
+            <anchor 284 -15> mark @Anchor3__Anchor3;
+        pos base [Y Yacute Ycircumflex Ydieresis Ygrave uni1EF6 uni1EF8 uni0232.extended uni1E8E.extended]
+            <anchor 293 0> mark @Anchor3__Anchor3;
+        pos base [Z Zacute Zcaron Zdotaccent uni1E90.extended]
+            <anchor 292 -12> mark @Anchor3__Anchor3;
+        pos base [a aacute abreve uni01CE acircumflex adieresis agrave amacron aring atilde uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAF uni1EB1 uni1EB3 uni1EB5 uni01DF.extended uni01E1.extended uni01FB.extended uni0227.extended]
+            <anchor 255 -22> mark @Anchor3__Anchor3;
+        pos base aogonek
+            <anchor 219 -244> mark @Anchor3__Anchor3;
+        pos base [ae uni01E3.extended uni01FD.extended]
+            <anchor 367 -22> mark @Anchor3__Anchor3;
+        pos base [b d uni1E03.extended uni1E0B.extended]
+            <anchor 244 -14> mark @Anchor3__Anchor3;
+        pos base [c cacute ccaron cdotaccent uni0109.extended]
+            <anchor 248 -25> mark @Anchor3__Anchor3;
+        pos base [ccedilla uni1E09.extended]
+            <anchor 213 -248> mark @Anchor3__Anchor3;
+        pos base eth
+            <anchor 231 -14> mark @Anchor3__Anchor3;
+        pos base dcaron
+            <anchor 298 -14> mark @Anchor3__Anchor3;
+        pos base dcroat
+            <anchor 238 -14> mark @Anchor3__Anchor3;
+        pos base [e eacute ecaron ecircumflex edieresis edotaccent egrave emacron uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni0115.extended uni1E15.extended uni1E17.extended]
+            <anchor 250 -20> mark @Anchor3__Anchor3;
+        pos base eogonek
+            <anchor 215 -242> mark @Anchor3__Anchor3;
+        pos base [f uni1E1F.extended]
+            <anchor 183 -185> mark @Anchor3__Anchor3;
+        pos base [g gbreve gdotaccent uni011D.extended uni01E7.extended uni01F5.extended uni1E21.extended]
+            <anchor 205 -238> mark @Anchor3__Anchor3;
+        pos base uni0123
+            <anchor 170 -461> mark @Anchor3__Anchor3;
+        pos base hbar
+            <anchor 238 0> mark @Anchor3__Anchor3;
+        pos base [i dotlessi iacute icircumflex idieresis igrave imacron uni0129 uni1EC9 uni012D.extended uni01D0.extended uni1E2F.extended]
+            <anchor 75 0> mark @Anchor3__Anchor3;
+        pos base ij
+            <anchor 197 -220> mark @Anchor3__Anchor3;
+        pos base iogonek
+            <anchor 40 -222> mark @Anchor3__Anchor3;
+        pos base [j uni0237]
+            <anchor 119 -233> mark @Anchor3__Anchor3;
+        pos base [k uni01E9.extended uni1E31.extended]
+            <anchor 246 -15> mark @Anchor3__Anchor3;
+        pos base uni0137
+            <anchor 210 -238> mark @Anchor3__Anchor3;
+        pos base [l lacute]
+            <anchor 116 -18> mark @Anchor3__Anchor3;
+        pos base lcaron
+            <anchor 171 -18> mark @Anchor3__Anchor3;
+        pos base uni013C
+            <anchor 82 -241> mark @Anchor3__Anchor3;
+        pos base lslash
+            <anchor 121 -18> mark @Anchor3__Anchor3;
+        pos base [m uni1E3F.extended uni1E41.extended]
+            <anchor 352 0> mark @Anchor3__Anchor3;
+        pos base [uni0146 uni1E29.extended]
+            <anchor 208 -223> mark @Anchor3__Anchor3;
+        pos base eng
+            <anchor 204 -220> mark @Anchor3__Anchor3;
+        pos base [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni014F.extended uni01D2.extended uni022B.extended uni022D.extended uni022F.extended uni0231.extended uni1E4D.extended uni1E4F.extended uni1E51.extended uni1E53.extended]
+            <anchor 250 -14> mark @Anchor3__Anchor3;
+        pos base [oslash uni01FF.extended]
+            <anchor 245 -44> mark @Anchor3__Anchor3;
+        pos base oe
+            <anchor 362 -20> mark @Anchor3__Anchor3;
+        pos base [p thorn q uni1E55.extended uni1E57.extended]
+            <anchor 215 -195> mark @Anchor3__Anchor3;
+        pos base [r racute rcaron uni1E59.extended]
+            <anchor 196 0> mark @Anchor3__Anchor3;
+        pos base uni0157
+            <anchor 161 -223> mark @Anchor3__Anchor3;
+        pos base [s sacute scaron uni015D.extended uni1E61.extended uni1E65.extended uni1E67.extended]
+            <anchor 235 -34> mark @Anchor3__Anchor3;
+        pos base scedilla
+            <anchor 199 -257> mark @Anchor3__Anchor3;
+        pos base uni0219
+            <anchor 188 -331> mark @Anchor3__Anchor3;
+        pos base germandbls
+            <anchor 258 -14> mark @Anchor3__Anchor3;
+        pos base [t uni1E6B.extended uni1E97.extended]
+            <anchor 198 -12> mark @Anchor3__Anchor3;
+        pos base [tcaron z zacute zcaron zdotaccent uni1E91.extended]
+            <anchor 253 -12> mark @Anchor3__Anchor3;
+        pos base uni021B
+            <anchor 151 -309> mark @Anchor3__Anchor3;
+        pos base [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uring uni0169 uni1EE7 uni01D4.extended uni01D6.extended uni01D8.extended uni01DA.extended uni01DC.extended uni1E79.extended uni1E7B.extended]
+            <anchor 238 -29> mark @Anchor3__Anchor3;
+        pos base uogonek
+            <anchor 203 -251> mark @Anchor3__Anchor3;
+        pos base [v uni1E7D.extended]
+            <anchor 261 -21> mark @Anchor3__Anchor3;
+        pos base [w wacute wcircumflex wdieresis wgrave uni1E87.extended uni1E98.extended]
+            <anchor 367 -21> mark @Anchor3__Anchor3;
+        pos base [x uni1E8B.extended uni1E8D.extended]
+            <anchor 251 -17> mark @Anchor3__Anchor3;
+        pos base [y yacute ycircumflex ydieresis ygrave uni1EF7 uni1EF9 uni0233.extended uni1E8F.extended uni1E99.extended]
+            <anchor 235 -229> mark @Anchor3__Anchor3;
+        pos base [uni01A0 uni1EDA uni1EDC uni1EDE uni1EE0]
+            <anchor 340 -20> mark @Anchor3__Anchor3;
+        pos base [uni01A1 uni1EDB uni1EDD uni1EDF uni1EE1]
+            <anchor 296 -14> mark @Anchor3__Anchor3;
+        pos base [uni01AF uni1EE8 uni1EEA uni1EEC uni1EEE]
+            <anchor 330 -26> mark @Anchor3__Anchor3;
+        pos base [uni01B0 uni1EE9 uni1EEB uni1EED uni1EEF]
+            <anchor 283 -29> mark @Anchor3__Anchor3;
+        pos base [uni1EA0 uni1EAC uni1EB6]
+            <anchor 277 -118> mark @Anchor3__Anchor3;
+        pos base [uni1EA1 uni1EAD uni1EB7]
+            <anchor 237 -131> mark @Anchor3__Anchor3;
+        pos base [uni1EB8 uni1EC6]
+            <anchor 231 -121> mark @Anchor3__Anchor3;
+        pos base [uni1EB9 uni1EC7]
+            <anchor 233 -129> mark @Anchor3__Anchor3;
+        pos base uni1ECA
+            <anchor 111 -121> mark @Anchor3__Anchor3;
+        pos base uni1ECB
+            <anchor 58 -109> mark @Anchor3__Anchor3;
+        pos base [uni1ECC uni1ED8]
+            <anchor 278 -129> mark @Anchor3__Anchor3;
+        pos base [uni1ECD uni1ED9]
+            <anchor 233 -123> mark @Anchor3__Anchor3;
+        pos base uni1EE4
+            <anchor 267 -135> mark @Anchor3__Anchor3;
+        pos base uni1EE5
+            <anchor 221 -138> mark @Anchor3__Anchor3;
+        pos base uni1EF4
+            <anchor 276 -109> mark @Anchor3__Anchor3;
+        pos base uni1EF5
+            <anchor 217 -338> mark @Anchor3__Anchor3;
+        pos base uni1EE2
+            <anchor 323 -129> mark @Anchor3__Anchor3;
+        pos base uni1EE3
+            <anchor 279 -123> mark @Anchor3__Anchor3;
+        pos base uni1EF0
+            <anchor 313 -135> mark @Anchor3__Anchor3;
+        pos base uni1EF1
+            <anchor 266 -138> mark @Anchor3__Anchor3;
+        pos base [uni0135.extended uni01F0.extended]
+            <anchor 150 -233> mark @Anchor3__Anchor3;
+        pos base uni0162.extended
+            <anchor 249 -223> mark @Anchor3__Anchor3;
+        pos base uni0163.extended
+            <anchor 163 -235> mark @Anchor3__Anchor3;
+        pos base [uni01EA.extended uni01EC.extended]
+            <anchor 260 -242> mark @Anchor3__Anchor3;
+        pos base [uni01EB.extended uni01ED.extended]
+            <anchor 215 -236> mark @Anchor3__Anchor3;
+        pos base [uni0228.extended uni1E1C.extended]
+            <anchor 213 -235> mark @Anchor3__Anchor3;
+        pos base [uni0229.extended uni1E1D.extended]
+            <anchor 215 -243> mark @Anchor3__Anchor3;
+        pos base uni1E04.extended
+            <anchor 224 -124> mark @Anchor3__Anchor3;
+        pos base [uni1E05.extended uni1E0D.extended]
+            <anchor 227 -123> mark @Anchor3__Anchor3;
+        pos base uni1E0C.extended
+            <anchor 266 -127> mark @Anchor3__Anchor3;
+        pos base uni1E10.extended
+            <anchor 248 -241> mark @Anchor3__Anchor3;
+        pos base uni1E11.extended
+            <anchor 208 -237> mark @Anchor3__Anchor3;
+        pos base uni1E24.extended
+            <anchor 258 -109> mark @Anchor3__Anchor3;
+        pos base [uni1E25.extended uni1E47.extended]
+            <anchor 226 -109> mark @Anchor3__Anchor3;
+        pos base uni1E28.extended
+            <anchor 240 -223> mark @Anchor3__Anchor3;
+        pos base uni1E32.extended
+            <anchor 263 -123> mark @Anchor3__Anchor3;
+        pos base uni1E33.extended
+            <anchor 228 -124> mark @Anchor3__Anchor3;
+        pos base [uni1E36.extended uni1E38.extended]
+            <anchor 222 -121> mark @Anchor3__Anchor3;
+        pos base [uni1E37.extended uni1E39.extended]
+            <anchor 99 -127> mark @Anchor3__Anchor3;
+        pos base uni1E42.extended
+            <anchor 331 -109> mark @Anchor3__Anchor3;
+        pos base uni1E43.extended
+            <anchor 335 -109> mark @Anchor3__Anchor3;
+        pos base uni1E46.extended
+            <anchor 271 -109> mark @Anchor3__Anchor3;
+        pos base [uni1E5A.extended uni1E5C.extended]
+            <anchor 252 -122> mark @Anchor3__Anchor3;
+        pos base [uni1E5B.extended uni1E5D.extended]
+            <anchor 179 -109> mark @Anchor3__Anchor3;
+        pos base [uni1E62.extended uni1E68.extended]
+            <anchor 266 -143> mark @Anchor3__Anchor3;
+        pos base [uni1E63.extended uni1E69.extended]
+            <anchor 217 -143> mark @Anchor3__Anchor3;
+        pos base uni1E6C.extended
+            <anchor 267 -109> mark @Anchor3__Anchor3;
+        pos base uni1E6D.extended
+            <anchor 181 -121> mark @Anchor3__Anchor3;
+        pos base uni1E7E.extended
+            <anchor 275 -130> mark @Anchor3__Anchor3;
+        pos base uni1E7F.extended
+            <anchor 243 -130> mark @Anchor3__Anchor3;
+        pos base uni1E88.extended
+            <anchor 383 -120> mark @Anchor3__Anchor3;
+        pos base uni1E89.extended
+            <anchor 349 -130> mark @Anchor3__Anchor3;
+        pos base uni1E92.extended
+            <anchor 275 -121> mark @Anchor3__Anchor3;
+        pos base uni1E93.extended
+            <anchor 236 -121> mark @Anchor3__Anchor3;
+
+} MarkToBase1;
+
+lookup MarkToMark4 {
+    lookupflag 0;
+    ;
+    # Original source: 1 
+            pos mark uni0308
+            <anchor 7 44> mark @Anchor5_Anchor5_;
+        pos mark uni0307
+            <anchor 8 50> mark @Anchor5_Anchor5_;
+        pos mark gravecomb
+            <anchor 9 118> mark @Anchor5_Anchor5_;
+        pos mark acutecomb
+            <anchor 29 118> mark @Anchor5_Anchor5_;
+        pos mark uni030B
+            <anchor 351 733> mark @Anchor5_Anchor5_;
+        pos mark uni0302
+            <anchor 19 117> mark @Anchor5_Anchor5_;
+        pos mark uni030C
+            <anchor 17 108> mark @Anchor5_Anchor5_;
+        pos mark uni0306
+            <anchor 14 91> mark @Anchor5_Anchor5_;
+        pos mark uni030A
+            <anchor 23 146> mark @Anchor5_Anchor5_;
+        pos mark tildecomb
+            <anchor 9 54> mark @Anchor5_Anchor5_;
+        pos mark uni0304
+            <anchor 5 32> mark @Anchor5_Anchor5_;
+        pos mark uni0312
+            <anchor 257 808> mark @Anchor5_Anchor5_;
+        pos mark hookabovecomb
+            <anchor 43 144> mark @Anchor5_Anchor5_;
+
+} MarkToMark4;
+
+lookup PairPositioning6 {
+    lookupflag 0;
+    ;
+    # Original source: 2 
+    pos [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni01CD uni01DE.extended uni01E0.extended uni01FA.extended uni0226.extended uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6] [W Wacute Wcircumflex Wdieresis Wgrave uni1E86.extended uni1E88.extended] -25;
+    pos [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni01CD uni01DE.extended uni01E0.extended uni01FA.extended uni0226.extended uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6] [V uni1E7C.extended uni1E7E.extended] -35;
+    pos [Y Yacute Ycircumflex Ydieresis Ygrave uni0232.extended uni1E8E.extended uni1EF4 uni1EF6 uni1EF8] [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde uni014F.extended uni01A1 uni01D2.extended uni01EB.extended uni01ED.extended uni022B.extended uni022D.extended uni022F.extended uni0231.extended uni1E4D.extended uni1E4F.extended uni1E51.extended uni1E53.extended uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 uni1EDB uni1EDD uni1EDF uni1EE1 uni1EE3] -35;
+    pos [T Tcaron uni0162.extended uni021A uni1E6A.extended uni1E6C.extended] [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde uni014F.extended uni01A1 uni01D2.extended uni01EB.extended uni01ED.extended uni022B.extended uni022D.extended uni022F.extended uni0231.extended uni1E4D.extended uni1E4F.extended uni1E51.extended uni1E53.extended uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 uni1EDB uni1EDD uni1EDF uni1EE1 uni1EE3] -25;
+    pos [T Tcaron uni0162.extended uni021A uni1E6A.extended uni1E6C.extended] [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde uni01CE uni01DF.extended uni01E1.extended uni01FB.extended uni0227.extended uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7] -25;
+    pos [V uni1E7C.extended uni1E7E.extended] [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde uni01CE uni01DF.extended uni01E1.extended uni01FB.extended uni0227.extended uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7] -25;
+} PairPositioning6;
+
+lookup PairPositioning7 {
+    lookupflag 0;
+    ;
+    # Original source: 3 
+    pos iogonek iogonek 31;
+} PairPositioning7;
+
+feature ccmp {
+    script DFLT;
+    language dflt;
+            lookup LigatureSubstitution1;
+
+} ccmp;
+
+feature ccmp {
+    script latn;
+    language dflt;
+            lookup LigatureSubstitution1;
+
+} ccmp;
+
+feature tnum {
+    script DFLT;
+    language dflt;
+            lookup SingleSubstitution2;
+
+} tnum;
+
+feature tnum {
+    script latn;
+    language dflt;
+            lookup SingleSubstitution2;
+
+} tnum;
+
+feature kern {
+    script DFLT;
+    language dflt;
+            lookup PairPositioning6;
+
+} kern;
+
+feature kern {
+    script latn;
+    language dflt;
+            lookup PairPositioning6;
+
+} kern;
+
+feature kern {
+    script DFLT;
+    language dflt;
+            lookup PairPositioning7;
+
+} kern;
+
+feature kern {
+    script latn;
+    language dflt;
+            lookup PairPositioning7;
+
+} kern;
+
+feature mark {
+    script DFLT;
+    language dflt;
+            lookup MarkToBase1;
+
+} mark;
+
+feature mark {
+    script latn;
+    language dflt;
+            lookup MarkToBase1;
+
+} mark;
+
+feature mkmk {
+    script DFLT;
+    language dflt;
+            lookup MarkToMark4;
+
+} mkmk;
+
+feature mkmk {
+    script latn;
+    language dflt;
+            lookup MarkToMark4;
+
+} mkmk;

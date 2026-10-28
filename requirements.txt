@@ -1,0 +1,5 @@
+fontmake==3.12.2
+fonttools==4.68.0
+ufoLib2==0.19.1
+fontbakery[googlefonts]==1.1.0
+setuptools==80.9.0

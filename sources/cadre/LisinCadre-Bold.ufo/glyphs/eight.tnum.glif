@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.tnum" format="2">
+  <advance width="591"/>
+  <outline>
+    <contour>
+      <point x="296" y="726" type="qcurve" smooth="yes"/>
+      <point x="515" y="726"/>
+      <point x="515" y="523" type="qcurve" smooth="yes"/>
+      <point x="515" y="415"/>
+      <point x="454" y="364" type="qcurve"/>
+      <point x="537" y="313"/>
+      <point x="537" y="188" type="qcurve" smooth="yes"/>
+      <point x="537" y="-26"/>
+      <point x="55" y="-26"/>
+      <point x="55" y="188" type="qcurve" smooth="yes"/>
+      <point x="55" y="313"/>
+      <point x="138" y="364" type="qcurve"/>
+      <point x="77" y="415"/>
+      <point x="77" y="523" type="qcurve" smooth="yes"/>
+      <point x="77" y="726"/>
+    </contour>
+    <contour>
+      <point x="425" y="319"/>
+      <point x="168" y="319"/>
+      <point x="168" y="56"/>
+      <point x="425" y="56"/>
+    </contour>
+    <contour>
+      <point x="403" y="644"/>
+      <point x="190" y="644"/>
+      <point x="190" y="401"/>
+      <point x="403" y="401"/>
+    </contour>
+  </outline>
+</glyph>

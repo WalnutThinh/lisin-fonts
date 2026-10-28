@@ -1,0 +1,245 @@
+{
+  "studio": {
+    "fontbakery": "1.1.0",
+    "counts": {
+      "(not finished)": 0,
+      "FAIL": 4,
+      "INFO": 25,
+      "PASS": 377,
+      "SKIP": 427,
+      "WARN": 60
+    },
+    "issues": {
+      "opentype/gdef_mark_chars": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "alt_caron": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "contour_count": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "math_signs_width": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "overlapping_path_segments": {
+        "result": "WARN",
+        "instances": 2
+      },
+      "unreachable_glyphs": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/article/images": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/metadata/unreachable_subsetting": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/glyphsets/shape_languages": {
+        "result": "FAIL",
+        "instances": 4
+      },
+      "dotted_circle": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "soft_dotted": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_direction": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_jaggy_segments": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_semi_vertical": {
+        "result": "WARN",
+        "instances": 2
+      },
+      "googlefonts/meta/script_lang_tags": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/vendor_id": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/vertical_metrics": {
+        "result": "WARN",
+        "instances": 4
+      }
+    }
+  },
+  "logic": {
+    "fontbakery": "1.1.0",
+    "counts": {
+      "(not finished)": 0,
+      "FAIL": 4,
+      "INFO": 25,
+      "PASS": 377,
+      "SKIP": 427,
+      "WARN": 60
+    },
+    "issues": {
+      "opentype/gdef_mark_chars": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "alt_caron": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "contour_count": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "math_signs_width": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "overlapping_path_segments": {
+        "result": "WARN",
+        "instances": 2
+      },
+      "unreachable_glyphs": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/article/images": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/metadata/unreachable_subsetting": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/glyphsets/shape_languages": {
+        "result": "FAIL",
+        "instances": 4
+      },
+      "dotted_circle": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "soft_dotted": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_direction": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_jaggy_segments": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_semi_vertical": {
+        "result": "WARN",
+        "instances": 2
+      },
+      "googlefonts/meta/script_lang_tags": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/vendor_id": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/vertical_metrics": {
+        "result": "WARN",
+        "instances": 4
+      }
+    }
+  },
+  "cadre": {
+    "fontbakery": "1.1.0",
+    "counts": {
+      "(not finished)": 0,
+      "FAIL": 4,
+      "INFO": 25,
+      "PASS": 377,
+      "SKIP": 427,
+      "WARN": 60
+    },
+    "issues": {
+      "opentype/gdef_mark_chars": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "alt_caron": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "contour_count": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "math_signs_width": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "overlapping_path_segments": {
+        "result": "WARN",
+        "instances": 2
+      },
+      "unreachable_glyphs": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/article/images": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/metadata/unreachable_subsetting": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/glyphsets/shape_languages": {
+        "result": "FAIL",
+        "instances": 4
+      },
+      "dotted_circle": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "soft_dotted": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_direction": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_jaggy_segments": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "outline_semi_vertical": {
+        "result": "WARN",
+        "instances": 2
+      },
+      "googlefonts/meta/script_lang_tags": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/vendor_id": {
+        "result": "WARN",
+        "instances": 4
+      },
+      "googlefonts/vertical_metrics": {
+        "result": "WARN",
+        "instances": 4
+      }
+    }
+  }
+}

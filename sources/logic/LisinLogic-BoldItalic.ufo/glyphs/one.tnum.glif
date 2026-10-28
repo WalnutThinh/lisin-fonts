@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tnum" format="2">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="262" y="513" type="line"/>
+      <point x="368" y="589" type="line"/>
+      <point x="285" y="61" type="line"/>
+      <point x="200" y="61" type="line"/>
+      <point x="186" y="-25" type="line"/>
+      <point x="450" y="-25" type="line"/>
+      <point x="464" y="61" type="line"/>
+      <point x="380" y="61" type="line"/>
+      <point x="478" y="685" type="line" smooth="yes"/>
+      <point x="481" y="701"/>
+      <point x="471" y="714" type="qcurve" smooth="yes"/>
+      <point x="444" y="746"/>
+      <point x="405" y="717" type="qcurve" smooth="yes"/>
+      <point x="209" y="577" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="140"/>
+  <outline>
+    <contour>
+      <point x="70" y="299" type="qcurve" smooth="yes"/>
+      <point x="39" y="299"/>
+      <point x="16" y="318" type="qcurve" smooth="yes"/>
+      <point x="-7" y="337"/>
+      <point x="-7" y="369" type="qcurve" smooth="yes"/>
+      <point x="-7" y="400"/>
+      <point x="16" y="419" type="qcurve" smooth="yes"/>
+      <point x="39" y="438"/>
+      <point x="70" y="438" type="qcurve" smooth="yes"/>
+      <point x="99" y="438"/>
+      <point x="122" y="419" type="qcurve" smooth="yes"/>
+      <point x="146" y="400"/>
+      <point x="146" y="369" type="qcurve" smooth="yes"/>
+      <point x="146" y="337"/>
+      <point x="122" y="318" type="qcurve" smooth="yes"/>
+      <point x="99" y="299"/>
+    </contour>
+  </outline>
+</glyph>

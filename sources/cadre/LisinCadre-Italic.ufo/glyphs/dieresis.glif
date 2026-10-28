@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="480"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="229" y="602" type="qcurve" smooth="yes"/>
+      <point x="205" y="602"/>
+      <point x="175" y="633"/>
+      <point x="179" y="656" type="qcurve" smooth="yes"/>
+      <point x="183" y="679"/>
+      <point x="202" y="694" type="qcurve" smooth="yes"/>
+      <point x="222" y="709"/>
+      <point x="246" y="709" type="qcurve" smooth="yes"/>
+      <point x="271" y="709"/>
+      <point x="300" y="679"/>
+      <point x="296" y="656" type="qcurve" smooth="yes"/>
+      <point x="292" y="633"/>
+      <point x="274" y="617" type="qcurve"/>
+      <point x="254" y="602"/>
+    </contour>
+    <contour>
+      <point x="442" y="602" type="qcurve" smooth="yes"/>
+      <point x="417" y="602"/>
+      <point x="388" y="633"/>
+      <point x="392" y="656" type="qcurve" smooth="yes"/>
+      <point x="396" y="679"/>
+      <point x="414" y="694" type="qcurve"/>
+      <point x="434" y="709"/>
+      <point x="459" y="709" type="qcurve" smooth="yes"/>
+      <point x="484" y="709"/>
+      <point x="513" y="679"/>
+      <point x="509" y="656" type="qcurve" smooth="yes"/>
+      <point x="505" y="633"/>
+      <point x="486" y="617" type="qcurve" smooth="yes"/>
+      <point x="467" y="602"/>
+    </contour>
+  </outline>
+</glyph>
